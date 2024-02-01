@@ -1,0 +1,1244 @@
+<resources>
+    <string name="app_name">KyotoApp</string>
+
+    <string name="isi_tentang">
+        KyotoApl adalah sebuah aplikasi info seputar wisata dan kuliner yang berada di Kota Kyoto. Memberikan rekomendasi informasi bantuan bagi para wisatawan yang ingin berkunjung ke Kota Kyoto
+    </string>
+
+    <string name="isi_tentang_kyoto">
+        Kyoto, secara resmi Kota Kyoto adalah ibu kota Prefektur Kyoto di Jepang. Terletak di wilayah Kansai di pulau Honshu terbesar dan terpadat di Jepang, Kyoto merupakan bagian dari wilayah metropolitan Keihanshin bersama dengan Osaka dan Kobe. Kota ini merupakan pusat budaya dari wilayah metropolitan yang jauh lebih besar yang dikenal sebagai Greater Kyoto, sebuah wilayah statistik metropolitan (MSA) yang dihuni oleh 3,8 juta orang berdasarkan sensus.
+        \n\nKyoto adalah salah satu kota tertua di Jepang, yang dipilih pada tahun 794 sebagai pusat istana kekaisaran Jepang yang baru oleh Kaisar Kanmu. Kota aslinya, bernama Heian-kyō, ditata sesuai dengan feng shui tradisional Tiongkok mengikuti model ibu kota Tiongkok kuno Changan dan Luoyang. Kaisar Jepang memerintah dari Kyoto pada sebelas abad berikutnya hingga tahun 1869. Di sinilah terjadi beberapa peristiwa penting pada zaman Muromachi, zaman Sengoku, dan Perang Boshin, seperti Perang Ōnin, Insiden Honnō-ji, Kinmon. insiden, dan Pertempuran Toba–Fushimi. Ibukota dipindahkan dari Kyoto ke Tokyo setelah Restorasi Meiji. Kotamadya modern Kyoto didirikan pada tahun 1889. Kota ini terhindar dari kehancuran besar-besaran selama Perang Dunia II dan, sebagai hasilnya, sebagian besar warisan budaya sebelum perang masih dilestarikan.
+        \n\nKyoto dianggap sebagai ibu kota budaya Jepang dan merupakan tujuan wisata utama. Badan Urusan Kebudayaan pemerintah pusat berkantor pusat di kota. Ini adalah rumah bagi banyak kuil Buddha, kuil Shinto, istana dan taman, beberapa di antaranya telah ditetapkan secara kolektif sebagai Situs Warisan Dunia oleh UNESCO. Landmark terkemuka termasuk Istana Kekaisaran Kyoto, Kiyomizu-dera, Kinkaku-ji, Ginkaku-ji, dan Menara Kyoto. Perusahaan video game terkenal internasional Nintendo berbasis di Kyoto. Kyoto juga merupakan pusat pendidikan tinggi di negara ini, dan institusi-institusinya termasuk Universitas Kyoto, universitas tertua kedua di Jepang.
+    </string>
+
+    <string name="isi_tentang_prefektur">
+        Jepang terbagi atas 47 prefektur <b>(都道府県, Todōfuken)</b>, yang merupakan wilayah administrasi dan yurisdiksi tingkat satu (setara dengan provinsi di Indonesia). Terdiri atas <b>43 prefektur (県, ken)</b>, <b>dua prefektur perkotaan (府, fu, Osaka dan Kyoto)</b>, <b>satu "sirkuit" atau "daerah" (道, dō, Hokkaido)</b> dan <b>satu "metropolitan" (都, to, Tokyo)</b>. Meiji melalui administrasi Fuhanken sanchisei menciptakan sistem prefektur (-fu untuk perkotaan dan -ken untuk pedesaan) pada tahun 1868 untuk menggantikan sistem administrasi sebelumnya (bugyō, daikan, dll.) yang berlaku di beberapa bagian negara yang sebelumnya dikendalikan langsung oleh shogun, dan beberapa wilayah pemberontak/loyalis shogun yang tidak tunduk kepada pemerintah baru seperti Aizu/Wakamatsu. Pada tahun 1871, seluruh domain feodal (han) yang tersisa diubah statusnya menjadi prefektur, sehingga seluruh negara tercakup oleh prefektur. Melalui serangkaian gelombang konsolidasi teritorial, terciptalah 47 prefektur yang masih berdiri hingga sekarang. Dalam beberapa kasus, luas prefektur modern setara dengan luas provinsi Jepang era ritsuryō.
+        \n\nSetiap prefektur dikepalai oleh seorang gubernur (知事, chiji) yang dipilih melalui pemilu. Peraturan Prefektur dan Anggaran Pendapatan Belanja Prefektur diatur oleh majelis prefektur (議会, gikai) di mana anggotanya dipilih melalui pemilu legislatif yang diadakan setiap empat tahun sekali.
+    </string>
+
+    <string name="isi_prefektur_kyoto">
+        Prefektur Kyoto terletak di bagian tengah Pulau Honshu. Total luas wilayahnya adalah 4612,19 km², 1,2% dari luas seluruh wilayah Jepang dan menempati posisi ke-31 dari seluruh prefektur di Jepang. Prefektur ini berbatasan langsung dengan Laut Jepang dan Prefektur Fukui di sebelah utara, Prefektur Osaka dan Prefektur Nara di sebelah selatan, Prefektur Mie dan Prefektur Shiga di sebelah timur, serta Prefektur Hyogo di sebelah barat. Prefektur Kyoto bagian utara dan selatan dipisahkan oleh Pegunungan Tamba yang menyebabkan perbedaan iklim antara kedua bagian wilayah.
+        \n\nBeberapa kota besar yang berada di Prefektur Kyoto
+        \n\nAyabe, Fukuchiyama, Jōyō, Kameoka, Kizugawa, Kyōtanabe, Kyōtango, <b>Kyoto (ibu kota)</b>, Maizuru, Miyazu, Mukō, Nagaokakyō, Nantan, Uji, Yawata
+    </string>
+
+    <string name="isi_jenis_prefektur">
+        <b>Fu</b>
+        \n\n<b>Prefektur Osaka dan Kyoto disebut sebagai fu (府)</b>. Karakter Kanji ini merujuk pada zona perkotaan inti dari kepentingan nasional. Sebelum Perang Dunia II, undang-undang yang berbeda berlaku untuk fu dan ken, tetapi perbedaan ini dihapuskan setelah perang, dan dua jenis prefektur sekarang secara fungsional sama.
+        \n\n<b>Ken</b>
+        \n\n<b>Empat puluh tiga dari 47 prefektur disebut sebagai ken (県)</b>. Karakter Kanji ini berarti provinsi dan biasa digunakan untuk merujuk pada kabupaten di Cina, Taiwan, Indonesia, dan Vietnam.
+        \n\n<b>Dō</b>
+        \n\n<b>Hokkaido disebut sebagai dō (道) atau sirkuit</b>. Istilah ini awalnya digunakan untuk merujuk ke wilayah Jepang yang terdiri dari beberapa provinsi (mis. Wilayah pantai timur Tōkaidō, dan wilayah pantai barat Saikaido).
+        \n\nPemerintah Meiji awalnya mengklasifikasikan <b>Hokkaido sebagai "Lngkungan Permukiman" (開拓使, kaitakushi)</b>, dan kemudian membagi pulau itu menjadi <b>tiga prefektur (Sapporo, Hakodate, dan Nemuro)</b>. Ketiganya dikonsolidasikan ke dalam satu Kegubernuran Hokkaido (北海道庁, Hokkaido-chō) pada tahun 1886, di tingkat prefektur tetapi lebih teratur di sepanjang garis wilayah. Pada tahun 1947, kegubernuran dibubarkan, dan Hokkaido menjadi prefektur seutuhnya. Akhiran -ken tidak pernah ditambahkan ke dalam namanya, sehingga akhiran -dō dianggap sama artinya dengan "prefektur".
+        \n\n<b>To</b>
+        \n\n<b>Tokyo disebut sebagai to (都)</b>, sering kali diterjemahkan sebagai "metropolitan." Pemerintah Jepang menerjemahkan Tōkyō-to sebagai "Metropolitan Tokyo" di hampir setiap keadaan dan pemerintahnya secara resmi disebut "Pemerintah Metropolitan Tokyo".
+    </string>
+
+    <string name="isi_pengelompokan_prefektur">
+        Prefektur di Jepang dikelompokkan menjadi delapan wilayah (Chihō). Wilayah tersebut tidak ditentukan secara hukum, tidak memiliki pejabat terpilih, dan juga tidak berbadan hukum. Pengelompokkan prefektur berdasarkan wilayah geografis disusun secara tradisional. Pengelompokkan tersebut tersirat dalam kode ISO Jepang. Dari utara ke selatan (penomoran dengan urutan ISO 3166-2:JP), pengelompokkan prefektur dan wilayah di Jepang sebagai berikut:
+        \n\nHokaido : Hokaido
+        \n\nTohoku : Aomori, Iwate, Miyagi, Akita, Yamagata, Fukushima
+        \n\nKanto : . Ibaraki, Tochigi, Gunma, Saitama, Chiba, Tōkyō, Kanagawa
+        \n\nChubu : Niigata, Toyama, Ishikawa, Fukui, Yamanashi, Nagano, Gifu, Shizuoka, Aichi
+        \n\nKansai : Mie, Shiga, Kyōto, Ōsaka, Hyōgo, Nara, Wakayama
+        \n\nChugoku : Tottori, Shimane, Okayama, Hiroshima, Yamaguchi
+        \n\nShikoku : Tokushima, Kagawa, Ehime, Kōchi
+        \n\nKyushu : Fukuoka, Saga, Nagasaki, Kumamoto, Ōita, Miyazaki, Kagoshima, Okinawa
+    </string>
+
+    <string name="isi_shrinedantemple">
+        Kuil
+        Mungkin Teman-teman pernah mendengar istilah Tera dan Jinja? Jika diartikan dalam bahasa Inggris, Tera memiliki arti "temple", dan Jinja memilki arti "shrine". Dalam bahasa Indonesia, kedua kata ini sama-sama bisa diartikan "kuil", baik kuil Buddha dan kuil Shinto.
+        \n\nLalu. sebetulnya apa perbedaan dari <b>Tera dan Jinja</b>?
+        \n\nSecara singkat, <b>Tera adalah kuil Buddha dan umumnya ditandai dengan patung Buddha</b>, serta biasanya ada biksu yang tinggal di dalamnya. Pengucapan untuk Tera bisa saja berubah sedikit, tergantung pada nama kuil Buddha dimaksud.
+        \n\n<b>Contohnya: Pelafalan Tera yang berubah menjadi Dera pada Kiyomizu-dera, istilah Tera yang menjadi Ji pada Kinkaku-ji, maupun istilah In pada Byodo-in.</b>
+        \n\n<b>Sedangkan pada kuil Shinto terdapat berbagai kategori</b>, dan dapat dikelompokkan lagi menjadi Jingu (神宮), Gu (宮), Dai-Jingu (大神宮), Taisha (大社), Jinja (神社), dan Sha (社).
+        \n\nPerbedaannya kurang lebih seperti ini:
+        \n\nJingu mengacu pada kuil Shinto yang khusus ditujukan bagi orang-orang dengan status tertinggi. Di Jepang, kuil Jingu memiliki hubungan yang sangat erat dengan keluarga kekaisaran Jepang dan para dewa leluhur dari keluarga kaisar.
+        \n\nContoh Jingu antara lain: Meiji Jingu (明治神宮) di Tokyo, Ise Jingu (伊勢神宮) di Prefektur Mie
+        \n\nGu (宮) mengacu pada kuil Shinto bagi orang-orang berstatus tinggi, serta dinamai karena memiliki beberapa alasan khusus. Selain itu, Gu juga diberikan untuk mengabadikan nama orang yang meninggal, namun masih berkaitan dengan Kaisar Jepang atau Keluarga Kekaisaran.
+        \n\nContoh Gu antara lain Nikko Tosho-Gu (日光東照宮) di Prefektur Tochigi, Dazaifu Tenman-Gu (太宰府天満宮) di Prefektur Fukuoka.
+        \n\nDaiJingu (大神宮) mengacu pada cabang dari Ise Jingu (伊勢神宮). Contohnya pada Tokyo Dai-Jingu (東京大神宮) di Tokyo.
+        \n\nTaisha (大 社) merujuk kepada kuil Shinto besar dengan status tinggi yang dikenal sebagai pusat agama Shinto di wilayah lokal Jepang.
+        \n\nContohnya antara lain Izumo Taisha (出雲大社) di Prefektur Shimane, Kasuga Taisha (春日大社) di Prefektur Nara.
+        \n\nSedangkan Jinja (神社) adalah tipe umum dari kuil-kuil Shinto, dan Sha (社) mengacu pada kuil-kuil Shinto yang berukuran lebih kecil, atau merupakan singkatan dari Jinja (神社).
+    </string>
+
+    <string name="des_bamboogrove">
+        Salah satu landmark Kyoto yang paling menarik adalah Hutan Bambu Sagano, juga dikenal sebagai Hutan Bambu Arashiyama yang terkenal sebagai salah satu tempat paling indah dan tenang.
+        \n\nPohon bambu tumbuh di area yang luas, menciptakan pemandangan yang spektakuler. Hutannya hijau dan tenang, seperti dunia yang benar-benar terpisah dari kehidupan yang ramai. Daerah ini dianggap sebagai salah satu hutan terindah di Jepang. Sejak zaman Heian (794-1185), orang Jepang telah memilih tempat ini sebagai resor favorit mereka.
+        \n\nArashiyama adalah tempat wisata yang populer, jadi biasanya sangat ramai, dan Anda sering harus mengantre di tempat-tempat wisata. Waktu tersibuk umumnya pada sore hari, akhir pekan, atau hari libur. Puncak musim turis di Arashiyama adalah pada awal April dan November setiap tahun, sesuai dengan musim mekarnya bunga sakura dan musim gugur.
+    </string>
+
+    <string name="lok_bamboogrove">
+        Sagaogurayama Tabuchiyamacho, Ukyo-ku, Kyoto, 616-8394, Jepang
+    </string>
+
+    <string name="aks_bamboogrove">
+        Menggunakan Kereta Sagano Line dari Stasiun Kyoto menuju Satasiun Saga-Arashiyama untuk tiket menggunakan JR Pass atau beli di mesin tiket stasiun.
+        \n\nBanyak bus yang melewati Arashiyama diantaranya menggunakan Bus Kota #28 atau Bus Kyoto #73
+    </string>
+
+    <string name="wak_bamboogrove">
+        24 Jam.
+    </string>
+
+    <string name="fee_bamboogrove">
+        Gratis
+    </string>
+
+    <string name="dae_bamboogrove">
+        Barat Kyoto
+    </string>
+
+    <string name="link_bamboogrove">
+        ---
+    </string>
+
+    <string name="kor_bamboogrove">
+        35.0168, 135.6713
+    </string>
+
+    <string name="des_kyotoaquarium">
+        Akuarium Kyoto, adalah akuarium modern dan dirancang dengan baik, tetapi kecil dibandingkan dengan akuarium terbaik Jepang. Tempat ini baru dibuka pada Maret 2012 di Taman Umekoji, sekitar satu kilometer sebelah barat Stasiun Kyoto. Fasilitas berlantai dua ini dibagi menjadi beberapa zona dengan berbagai tema yang memamerkan berbagai hewan air.
+        \n\nYang unik dari akuarium adalah zona yang menciptakan kembali lingkungan perairan sungai di Kyoto dan menampilkan salamander raksasa Jepang. Akuarium juga berusaha untuk melestarikan berbagai spesies kehidupan air lokal yang langka melalui pembiakan. Di zona lain, pengunjung dapat melihat kehidupan laut dari seluruh dunia, termasuk ubur-ubur, penguin, dan anjing laut. Ada juga stadion lumba-lumba dengan beberapa pertunjukan per hari.
+    </string>
+
+    <string name="lok_kyotoaquarium">
+        35-1, Kankijicho, Shimogyo-ku Kyoto-shi, Kyoto, 600-8835, Jepang (Umekoji Park)
+    </string>
+
+    <string name="aks_kyotoaquarium">
+        Berada di Taman Umekoji, 15 menit berjalan kaki ke barat dari Stasiun Kyoto
+        \n\nMenggunakan JR Sagano Line ke Stasiun Umekoji-Kyoto Nishi, lalu jalan ke timur 5 menit.
+    </string>
+
+    <string name="wak_kyotoaquarium">
+        10.00 – 18.00 Buka sepanjang tahun (kecuali inspeksi fasilitas dan badai).
+    </string>
+
+    <string name="fee_kyotoaquarium">
+        Tiket Umum : Dewasa ¥2400 || SMA ¥1700 || SD – SMP ¥1100 || anak (3th ke atas) ¥700.
+        \n\nPassport Tahunan : Dewasa ¥5300 || ¥4000 || SD – SMP ¥2700 || anak (3thn ke atas) ¥1800.
+    </string>
+
+    <string name="dae_kyotoaquarium">
+        Pusat Kyoto
+    </string>
+
+    <string name="link_kyotoaquarium">
+        <a href="https://www.kyoto-aquarium.com/en/index.html">Bahasa Inggris</a>
+        \n\n<a href="https://www.kyoto-aquarium.com/index.html">Bahasa Jepang</a>
+    </string>
+
+    <string name="kor_kyotoaquarium">
+        34.9875, 135.7472
+    </string>
+
+    <string name="des_kyotobotanicalgarden">
+        Didirikan pada tahun 1924, Kyoto Botanical Gardens adalah taman botani umum tertua dan terlengkap di Jepang. Dengan tanaman musiman dan berbagai konservatori, Taman selalu berubah dan dapat dinikmati sepanjang tahun. Lebih dari 450 pohon sakura bermekaran indah di musim semi dan dedaunan pohon gugur seperti warna maple indah di musim gugur. Di waktu lain sepanjang tahun, tanaman hijau subur dan berbagai macam pohon dan bunga dapat dinikmati. Kyoto Botanical Gardens adalah museum tanaman hidup yang menawarkan kesempatan untuk pendidikan dan relaksasi.
+        \n\nKonservatori ini adalah salah satu yang terbesar dan paling mengesankan di Jepang dengan ketinggian maksimum 14.8m dan luas lantai total 4.700m, dan menampilkan 4.500 taksa yang mengejutkan. Konservatori dipisahkan menjadi delapan bagian, dan dimungkinkan untuk mengamati tanaman dari berbagai lingkungan mulai dari tropis basah hingga tropis kering, dataran rendah hingga dataran tinggi, dan tanaman dari lingkungan alpine beriklim sedang. Selain itu, konservatori ini menawarkan koleksi tanaman tropis yang bermanfaat, anggrek dan bromeliad, dan kesempatan untuk menjelajahi kehidupan malam tanaman di hutan kota.
+    </string>
+
+    <string name="lok_kyotobotanicalgarden">
+        Hangi-cho, Shimogamo, Sakyo-ku, Kyoto-shi 606-0823, Jepang
+    </string>
+
+    <string name="aks_kyotobotanicalgarden">
+        Mengunakan Kereta bawah tanah Karasuma Line dan turun di Stasiun Kitayama lalu berjalan ke arah barat daya 2 menit.
+    </string>
+
+    <string name="wak_kyotobotanicalgarden">
+        09.00 – 17.00 (taman) || 10.00 – 16.00 (untuk konservatori).
+    </string>
+
+    <string name="fee_kyotobotanicalgarden">
+        Tiket Umum : Dewasa ¥200 || SMA ¥150.
+        \n\nPassport Tahunan : Dewasa ¥1000 || SMA ¥750.
+    </string>
+
+    <string name="dae_kyotobotanicalgarden">
+        Utara Kyoto
+    </string>
+
+    <string name="link_kyotobotanicalgarden">
+        <a href="https://www.pref.kyoto.jp/en/index.html">Bahasa Inggris</a>
+        \n\n<a href="https://www.pref.kyoto.jp/index.html">Bahasa Jepang</a>
+    </string>
+
+    <string name="kor_kyotobotanicalgarden">
+        35.0487, 135.7627
+    </string>
+
+    <string name="des_kyotoimperialpalace">
+        Istana Kekaisaran Kyoto dulunya adalah kediaman Keluarga Kekaisaran Jepang sampai tahun 1868, ketika kaisar dan ibu kota dipindahkan dari Kyoto ke Tokyo.
+        \n\nIstana Kekaisaran saat ini dibangun kembali pada tahun 1855 setelah terbakar dan berpindah-pindah kota berulang kali selama berabad-abad. Kompleks ini dikelilingi oleh tembok panjang dan terdiri dari beberapa gerbang, aula, dan taman. Upacara penobatan Kaisar Taisho dan Showa masih diadakan di aula utama istana. Istana Kekaisaran Tokyo sekarang digunakan untuk upacara penobatan.
+        \n\nSelain Istana Kekaisaran dan pekarangan Istana Sento, beberapa situs bersejarah lainnya terletak di dalam Taman Kekaisaran Kyoto, termasuk Kaninnomiya Mansion, bekas kediaman bangsawan istana yang terbuka untuk umum di sudut barat daya taman. Tidak jauh dari sana berdiri kuil cabang kecil dari Kuil Itsukushima Miyajima yang terkenal di sebuah pulau kecil di sebuah kolam. Taman sepanjang 1300 meter dan lebar 700 meter ini juga berfungsi sebagai ruang rekreasi bagi wisatawan dan penduduk.
+        \n\nSebelumnya hanya dapat diakses pada tur berpemandu yang memerlukan reservasi terlebih dahulu, halaman istana sekarang dapat dimasuki dan dijelajahi tanpa mengikuti tur dan tanpa pengaturan sebelumnya (walaupun tur dalam bahasa Inggris masih tersedia). Pengunjung dapat melihat bangunan istana dan taman, tetapi perhatikan bahwa tidak ada bangunan yang bisa dimasuki.
+    </string>
+
+    <string name="lok_kyotoimperialpalace">
+        3 Kyotogyoen, Kamigyo-ku, Kyoto, 602-0881, Jepang
+    </string>
+
+    <string name="aks_kyotoimperialpalace">
+        Dari Stasiun Kyoto menggunakan Kereta bawah tanah (Karasuma Line) dan turun di Stasiun Marutamachi (7 menit) atau Stasiun Imadegawa (10 menit). Stasiun Imadegawa lebih dekat dengan pintu masuk Istana dari pada Stasiun Marutamachi.
+    </string>
+
+    <string name="wak_kyotoimperialpalace">
+        09.00 – 16.30. Libur senin (jika libur nasional Senin tetap buka dan libur hari berikutnya).
+    </string>
+
+    <string name="fee_kyotoimperialpalace">
+        Gratis.
+    </string>
+
+    <string name="dae_kyotoimperialpalace">
+        Pusat Kyoto
+    </string>
+
+    <string name="link_kyotoimperialpalace">
+        <a href="https://sankan.kunaicho.go.jp/english/guide/kyoto.html">Bahasa Inggris</a>
+    \n\n<a href="https://sankan.kunaicho.go.jp/index.html">Bahsa Jepang</a>
+    </string>
+
+    <string name="kor_kyotoimperialpalace">
+        35.0259, 135.7616
+    </string>
+
+    <string name="des_kyotointernationalmangamuseum">
+        Dibuka pada tahun 2006, Museum Manga Internasional Kyoto terdiri dari tiga lantai dan sebuah ruang bawah tanah, dan sebagian besar dindingnya dilapisi dengan rak-rak manga. Menjelajahi koleksi manga yang sangat banyak ini adalah salah satu daya tarik utama museum. Sebagian kecil dari buku ini di dedikasikan untuk manga asing dan terjemahan, tetapi sebagian besar dalam bahasa Jepang. Selain koleksi manga asli yang sangat banyak, museum ini juga berfokus pada adopsi dan pengembangan manga secara internasional. Karya seniman manga internasional ditampilkan, dan acara terkait manga di museum sering kali melibatkan seniman asing. Selain koleksi permanennya, Museum Manga juga menampilkan pameran temporer dengan berbagai tema. Bangunan yang sekarang menjadi Museum Manga ini sebelumnya adalah sebuah sekolah dasar. Beberapa peninggalan bekas sekolah dipajang untuk pengunjung.
+    </string>
+
+    <string name="lok_kyotointernationalmangamuseum">
+        Karasuma-Oike, Nakagyo-ku, Kyoto 604-0846, Jepang.
+    </string>
+
+    <string name="aks_kyotointernationalmangamuseum">
+        Dari stasiun Kyoto, naik Kereta bawah tanah kota Kyoto (Karasuma Line atau Tozai Line) lalu turun di Karasuma Oike (6 menit) dan 2 menit dengan berjalan kaki.
+    </string>
+
+    <string name="wak_kyotointernationalmangamuseum">
+        10.30 – 17.30. Libur rabu (jika libur nasional Rabu tetap buka dan libur hari berikutnya)
+    </string>
+
+    <string name="fee_kyotointernationalmangamuseum">
+        Perorang : Dewasa ¥900 || SMA – SMP ¥400 || SD ¥200.
+        \n\n(diskon bila grup lebih dari 20 orang)
+    </string>
+
+    <string name="dae_kyotointernationalmangamuseum">
+        Pusat Kyoto
+    </string>
+
+    <string name="link_kyotointernationalmangamuseum">
+        <a href="https://kyotomm.jp/en/">Bahasa Inggris</a>
+        \n\n<a href="https://kyotomm.jp/">Bahasa Jepang</a>
+    </string>
+
+    <string name="kor_kyotointernationalmangamuseum">
+        35.011880, 135.759419
+    </string>
+
+    <string name="des_kyotonationalmuseum">
+        Dibuka pada tahun 1897, Museum Nasional Kyoto adalah salah satu museum tertua dan paling terkemuka di Jepang. Ini adalah salah satu dari empat museum nasional tingkat atas di samping Museum Nasional Tokyo, Museum Nasional Nara, dan Museum Nasional Kyushu.
+        \n\nKoleksi permanen museum disajikan kepada publik dalam pameran bergilir dan terdiri dari berbagai macam kekayaan budaya, termasuk peninggalan arkeologi, patung, keramik, kaligrafi, kostum, dan lukisan.
+    </string>
+
+    <string name="lok_kyotonationalmuseum">
+        527 Chaya-cho, Higashiyama-ku, Kyoto, 605-0931, Jepang.
+    </string>
+
+    <string name="aks_kyotonationalmuseum">
+        Menggunakan Bus Kota #206 atau #208 ke halte bus "Hakubutsukan Sanjusangendo-mae". Museum Nasional Kyoto terletak di seberang jalan dari Sanjusangendo.
+        \n\nMenggunakan Kereta Keihan Line dan turun di Stasiun Shichijo, dan jalan ke timur 6 menit.
+    </string>
+
+    <string name="wak_kyotonationalmuseum">
+        9.30 – 17.00. Libur hari senin (jika libur nasional Senin tetap buka dan libur hari berikutnya)
+    </string>
+
+    <string name="fee_kyotonationalmuseum">
+        Dewasa ¥700 || Mahasiswa ¥350 || SMA kebawah, lansia 70 tahun keatas serta pengawas, dan staff pengajar gratis.
+    </string>
+
+    <string name="dae_kyotonationalmuseum">
+        Timur Kyoto
+    </string>
+
+    <string name="link_kyotonationalmuseum">
+        <a href="https://www.kyohaku.go.jp/eng/">Bahasa Inggris</a>
+        \n\n<a href="https://www.kyohaku.go.jp/jp/">Bahasa Jepang</a>
+    </string>
+
+    <string name="kor_kyotonationalmuseum">
+        34.99006, 135.77313
+    </string>
+
+    <string name="des_kyototower">
+        Berdiri setinggi 131 meter tepat di seberang Stasiun Kyoto, Menara Kyoto (京都タワー) adalah bangunan tertinggi di Kyoto dan ikonik modern yang berada di kota yang terkenal dengan kuil kunonya. Menara ini selesai dibangun pada tahun 1964, tahun yang sama dengan pembukaan shinkansen dan Olimpiade Tokyo.
+        \n\nSebuah platform tinggi dan memberikan pemandangan 360 derajat dari Kyoto dan sejauh Osaka jika hari cerah. Menara Kyoto berdiri di atas bangunan komersial yang khas (Kyoto Towe Sando), yang berisi toko suvenir, restoran, dan hotel.
+    </string>
+
+    <string name="lok_kyototower">
+        721-1 Higashishiokoji-cho, Karasuma-dori Shichijo-sagaru, Shimogyo-ku, Kyoto 600-8216, Jepang.
+    </string>
+
+    <string name="aks_kyototower">
+        Menara Kyoto berdiri di sisi utara Stasiun Kyoto.
+    </string>
+
+    <string name="wak_kyototower">
+        10.00 – 21.00. Buka sepanjang tahun.
+    </string>
+
+    <string name="fee_kyototower">
+        Dewasa ¥900 || SMA ¥700 || SD – SMP ¥600 || anak (6thn ke bawah) ¥200
+        \n\n(diskon untuk grup wisata atau kelompok lebih dari 20 orang).
+    </string>
+
+    <string name="dae_kyototower">
+        Pusat Kyoto
+    </string>
+
+    <string name="link_kyototower">
+        <a href="https://www.kyoto-tower.jp/en/">Bahasa Inggris</a>
+        \n\n<a href="https://www.kyoto-tower.jp/">Bahasa Jepang</a>
+    </string>
+
+    <string name="kor_kyototower">
+        34.9875, 135.7593
+    </string>
+
+
+    <string name="des_monkeyparkiwatayama">
+        Taman ini terletak di Arashiyama, salah satu kawasan wisata tersibuk di Kyoto, tempat ini membanggakan sekitar kurang lebih 120 monyet salju, yang juga disebut "kera Jepang." Mereka asli Jepang, dan di mana mereka mandi di sumber air panas di musim dingin. Turis memiliki kesempatan untuk memberi mereka makan, tetapi monyet ini masih liar maka ada peraturan yang berlaku.
+    </string>
+
+    <string name="lok_monkeyparkiwatayama">
+        Arashiyama Genrokuyama-cho, Nishikyo-ku, Kyoto 616-0007, Jepang.
+    </string>
+
+    <string name="aks_monkeyparkiwatayama">
+        Menggunakan Kereta Sagano Line dari Stasiun Kyoto menuju Satasiun Saga-Arashiyama untuk tiket menggunakan JR Pass atau beli di mesin tiket stasiun.
+        \n\nBanyak bus yang melewati Arashiyama diantaranya menggunakan Bus Kota #28 atau Bus Kyoto #73.
+    </string>
+
+    <string name="wak_monkeyparkiwatayama">
+        09.00 – 16.00 (tutup lebih cepat jika monyet kembali ke gunung).
+    </string>
+
+    <string name="fee_monkeyparkiwatayama">
+        Dewasa ¥600 || anak ¥300 || dibawa 3 tahun gratis.
+    </string>
+
+    <string name="dae_monkeyparkiwatayama">
+        Barat Kyoto
+    </string>
+
+    <string name="link_monkeyparkiwatayama">
+        <a href="http://monkeypark.jp/eng-index.html">Bahasa Inggris (Situs sulit diakses jika menggunakan provider lokal)</a>
+        \n\n<a href="http://www.monkeypark.jp/">Bahasa Jepang (Situs sulit diakses jika menggunakan provider lokal)</a>
+    </string>
+
+    <string name="kor_monkeyparkiwatayama">
+        35.0114, 135.6766
+    </string>
+
+    <string name="des_ryoanjizengarden">
+        Kuil Ryoanji adalah situs taman batu paling terkenal di Jepang yang awalnya vila bangsawan selama Periode Heian. situs ini diubah menjadi kuil Zen pada tahun 1450 dan milik sekolah Myoshinji dari sekte Rinzai dari Buddhisme Zen, yang kuil utamanya berdiri hanya satu kilometer ke selatan.
+        \n\nAdapun sejarah taman batu yang terkenal di Ryoanji, faktanya kurang pasti. Tanggal pembangunan taman tidak diketahui dan ada sejumlah spekulasi mengenai perancangnya. Taman terdiri dari sebidang kerikil persegi panjang yang dikelilingi oleh dinding tanah rendah, dengan 15 batu diletakkan dalam kelompok kecil di atas lumut. Pemandangan ini mempunyai daya tarik tersendiri.
+    </string>
+
+    <string name="lok_ryoanjizengarden">
+        13 Ryoanji Goryonoshitacho, Ukyo Ward, Kyoto, 616-8001, Jepang.
+    </string>
+
+    <string name="aks_ryoanjizengarden">
+        Menggunakan Bus Kota #50, #52, atau #55 dan berhenti di Ritsumeikan daigaku-mae stop dan berjalan 7 menit menuju kuil. Bus Kota #59 berhenti di Ryoanji-mae stop lebih dekat dengan pintu masuk.
+        \n\nMenggunakan Kereta kecil Kitano Line dan turun di Stasiun Ryoan-ji berjalan ke utara 10 menit.
+    </string>
+
+    <string name="wak_ryoanjizengarden">
+        Maret - November 08.00 – 17.00 || Desember – Februari 08.30 – 16.30.
+    </string>
+
+    <string name="fee_ryoanjizengarden">
+        Dewasa ¥600 || SMA ¥500 || TK – SMP ¥300.
+    </string>
+
+    <string name="dae_ryoanjizengarden">
+        Utara Kyoto
+    </string>
+
+    <string name="link_ryoanjizengarden">
+        <a href="http://www.ryoanji.jp/smph/eng/">Bahasa Inggris</a>
+        \n\n<a href="http://www.ryoanji.jp/smph/">Bahasa Jepang</a>
+    </string>
+
+    <string name="kor_ryoanjizengarden">
+        35.03451, 135.71826
+    </string>
+
+    <string name="des_fushimiinarishrine_taisha">
+        Kuil Fushimi Inari adalah kuil Shinto penting di Kyoto selatan. Terkenal dengan ribuan gerbang torii berwarna merah terang, yang berdisi sepanjang jalan setapak di belakang bangunan utamanya. Jalan setapak mengarah ke hutan berhutan di Gunung Inari yang suci, yang berdiri di ketinggian 233 meter dan termasuk dalam area kuil.
+        \n\nFushimi Inari adalah yang paling penting dari sekian banyak kuil yang didedikasikan untuk Inari, dewa beras Shinto. Rubah dianggap sebagai utusan Inari, menghasilkan banyak patung rubah di halaman kuil. Kuil Fushimi Inari memiliki asal-usul kuno, sebelum ibu kota pindah ke Kyoto pada tahun 794.
+    </string>
+
+    <string name="lok_fushimiinarishrine_taisha">
+        8 Fukakusa Yabunouchi-cho, Fushimi-ku, Kyoto, 612-0882, Jepang.
+    </string>
+
+    <string name="aks_fushimiinarishrine_taisha">
+        Menggunakan JR Nara Line turun di Stasiun Inari lalu jalan kaki 5 menit ke timur, atau Keihan Main Line turun di  Stasiun Fushimi Inari berjalan ke arah timur 8 menit.
+        \n\nMenggunakan bus kota utara #5 turun di Inari Taisha-mae Stop dan berjalan ke timur 8 menit.
+    </string>
+
+    <string name="wak_fushimiinarishrine_taisha">
+        24 jam.
+    </string>
+
+    <string name="fee_fushimiinarishrine_taisha">
+        Gratis.
+    </string>
+
+    <string name="dae_fushimiinarishrine_taisha">
+        Selatan Kyoto
+    </string>
+
+    <string name="link_fushimiinarishrine_taisha">
+        <a href="https://inari.jp/en/">Bahasa Inggris</a>
+        \n\n<a href="https://inari.jp/">Bahasa Jepang</a>
+    </string>
+
+    <string name="kor_fushimiinarishrine_taisha">
+        34.9677, 135.7792
+    </string>
+
+    <string name="des_ginkakuji_tera">
+        Ginkaku-ji atau Kuil Paviliun Perak adalah nama populer untuk Jishō-ji (Kuil Jishō), sebuah bangunan kuil Sekte Rinzai di distrik Sakyō, Kyoto, Jepang. Kuil ini berupa sebuah tatchū yang berada di luar kompleks kuil bernama Shōkoku-ji. Nama resminya adalah Tōzan Jishō-ji. Pembangunan kuil dimulai oleh shogun Muromachi ke-8, Ashikaga Yoshimasa, sedangkan perintis pendirian kuil menurut kabar adalah biksu bernama Musō Soseki. Namun Musō Soseki hidup satu abad sebelum Yoshimasa menjadi shōgun, sehingga kuil ini kemungkinan dibangun oleh murid Musō Soseki dengan meminjam nama sang guru.
+        \n\nBangunan bertingkat yang disebut Aula Kannon (Kannon-den) populer dengan sebutan Ginkaku. Aula Kannon bersama bangunan kuil secara keseluruhan disebut Ginkaku-ji. Nama Ginkaku-ji sudah digunakan dalam peta petunjuk tempat penting di Kyoto sejak zaman Edo.
+    </string>
+
+    <string name="lok_ginkakuji_tera">
+        2 Ginakuji-cho, Sakyo-ku, Kyoto 606-8402, Jepang.
+    </string>
+
+    <string name="aks_ginkakuji_tera">
+        Menggunakan bus kota # 5, #17, atau #32 lalu turun di Ginkaku Ji-michi Stop, dan berjalan ke timur 5 menit.
+    </string>
+
+    <string name="wak_ginkakuji_tera">
+        Maret – November 08.30 – 17.00 || Desember – Februari 09.00 – 16.30 dapat berubah jika ada pameran khusus.
+    </string>
+
+    <string name="fee_ginkakuji_tera">
+        Dewasa ¥500 || SD – SMP ¥300.
+    </string>
+
+    <string name="dae_ginkakuji_tera">
+        Timur Kyoto.
+    </string>
+
+    <string name="link_ginkakuji_tera">
+        <a href="https://www.shokoku-ji.jp/en/ginkakuji/">Bahasa Inggris</a>
+        \n\n<a href="https://www.shokoku-ji.jp/ginkakuji/">Bahasa Jepang</a>
+    </string>
+
+    <string name="kor_ginkakuji_tera">
+        35.0270, 135.7982
+    </string>
+
+    <string name="des_heianshrine_jingu">
+        Kuil Heian (Heian Jingū) memiliki sejarah yang relatif singkat, dimulai lebih dari seratus tahun hingga tahun 1895. Kuil ini dibangun dalam rangka peringatan 1100 tahun berdirinya ibu kota di Kyoto dan didedikasikan untuk roh para kaisar pertama dan terakhir yang memerintah kota itu, Kaisar Kammu (737-806) dan Kaisar Komei (1831-1867). Heian adalah nama lama Kyoto.
+        \n\nGerbang torii raksasa menandai jalan menuju kuil, yang di sekelilingnya terdapat beberapa museum. Halaman kuil sebenarnya sangat luas dengan lapangan terbuka lebar di tengahnya. Bangunan utama kuil ini merupakan sebagian replika Istana Kekaisaran asli dari Zaman Heian, dibangun dengan skala yang lebih kecil dari aslinya.
+        \n\nDi belakang bangunan utama terdapat taman yang menarik dengan berbagai tanaman, kolam, dan bangunan. Keistimewaan taman ini yang paling mencolok adalah banyaknya pohon sakura yang berbunga, yang mekar beberapa hari lebih lambat dibandingkan kebanyakan pohon sakura lainnya, menjadikan taman ini salah satu tempat bunga sakura terbaik di Kyoto pada akhir musim, yang biasanya terjadi sekitar pertengahan bulan April.
+    </string>
+
+    <string name="lok_heianshrine_jingu">
+        97 Okazaki Nishitenno-cho, Sakyo-ku, Kyoto, 606-8341, Jepang.
+    </string>
+
+    <string name="aks_heianshrine_jingu">
+        Menggunakan Kereta bawah tanah Tozai Line turun di Stasiun Higashiyama, berjalan ke utara 6 menit. Atau menggunakan Kereta Keihan Main Line turun di Stasiun Jingu Marumachi atau Sanjo, berjalan ke timur 16 menit.
+        \n\nMenggunakan bus kota #5 atau #32 berhenti di Okazaki Kōen Bus Stop atau Heian Jingū-mae Bus Stop, berjalan ke utara 3 menit.
+    </string>
+
+    <string name="wak_heianshrine_jingu">
+        06.00 – 17.30 (kuil), 8.30 – 17.00 (taman)
+    </string>
+
+    <string name="fee_heianshrine_jingu">
+        Kuil gratis.
+        \n\nTaman : Dewasa ¥600 || Pelajar ¥300.
+    </string>
+
+    <string name="dae_heianshrine_jingu">
+        Timur Kyoto.
+    </string>
+
+    <string name="link_heianshrine_jingu">
+        <a href="https://www.heianjingu.or.jp/english/english.html">Bahasa Inggris</a>
+        \n\n<a href="https://www.heianjingu.or.jp/">Bahasa Jepang</a>
+    </string>
+
+    <string name="kor_heianshrine_jingu">
+        35.0160, 135.7824
+    </string>
+
+    <string name="des_kamigamoshrine_jinja">
+        Kuil Kamigamo (Kamigamo Jinja) adalah kuil Shinto penting di tepi Sungai Kamo di utara Kyoto, pertama kali didirikan pada tahun 678. Nama resminya adalah Kuil Kamo-wakeikazuchi (Kamo-wakeikazuchi jinja).
+        \n\nIni adalah salah satu kuil Shinto tertua di Jepang dan merupakan salah satu dari tujuh belas Monumen Bersejarah Kyoto Kuno yang telah ditetapkan oleh UNESCO sebagai Situs Warisan Dunia. Istilah Kamo-jinja dalam bahasa Jepang adalah referensi umum untuk Kuil Shimogamo dan Kuil Kamigamo, kuil Kamo yang secara tradisional terhubung di Kyoto. Kamo-jinja berfungsi melindungi Kyoto dari pengaruh jahat.
+        \n\nNama jinja mengidentifikasi keluarga Kamo dari kami atau dewa yang dihormati. Nama ini juga mengacu pada hutan di sekitar kuil, yang merupakan sisa-sisa hutan purba Tadasu no Mori. Selain itu, nama kuil ini merujuk pada penduduk awal wilayah tersebut, klan Kamo, yang sebagian besar masih tinggal di dekat kuil yang secara tradisional dilayani oleh nenek moyang mereka.
+    </string>
+
+    <string name="lok_kamigamoshrine_jinja">
+        339 Kamigamo-motoyama, Kita Ward, Kyoto, 603-8047, Jepang.
+    </string>
+
+    <string name="aks_kamigamoshrine_jinja">
+        Menggunakan bus kota #4 dan turun di Kamigamojinja-mae Stop, jalan ke utara pintu masuk kuil terlihat.
+        \n\nMenggunakan Kereta bawah tanah Karasuma Line turun di Stasiun Kitayama, berjalan ke barat laut 25 menit atau menggunakan bus kota #4 3 menit.
+    </string>
+
+    <string name="wak_kamigamoshrine_jinja">
+        08.30 – 17.00
+    </string>
+
+    <string name="fee_kamigamoshrine_jinja">
+        Gratis
+    </string>
+
+    <string name="dae_kamigamoshrine_jinja">
+        Utara Kyoto.
+    </string>
+
+    <string name="link_kamigamoshrine_jinja">
+        <a href="https://www.kamigamojinja.jp/en/">Bahasa Inggris</a>
+        \n\n<a href="https://www.kamigamojinja.jp/">Bahasa Jepang</a>
+    </string>
+
+    <string name="kor_kamigamoshrine_jinja">
+        35.0593, 135.7525
+    </string>
+
+    <string name="des_kifuneshrine_jinja">
+        Kifune Shrine (Kifune Jinja) adalah Kuil Shinto. Kibune adalah kota kecil di lembah hutan di pegunungan utara Kota Kyoto, yang berkembang di sekitar Kuil Kifune. Menurut legenda, seorang dewi melakukan perjalanan dengan perahu dari Osaka sampai ke sungai menuju pegunungan di utara Kyoto, dan Kuil Kifune dibangun di lokasi di mana perjalanan perahunya berakhir.
+        \n\nKuil Kifune memuja Dewa Air, sumber segala kehidupan, dan merupakan kuil utama dari dua ribu kuil dewa air di seluruh Jepang. Diselimuti oleh udara pegunungan, Kuil Kifune telah menjadi tempat ibadah populer sejak zaman kuno.
+    </string>
+
+    <string name="lok_kifuneshrine_jinja">
+        180, Kurama kibunecho, Sakyo-ku Kyoto-shi , Kyoto, 601-1112, Jepang.
+    </string>
+
+    <string name="aks_kifuneshrine_jinja">
+        Menggunakan Kereta Eizan Line atau Kurama Line sekali jalan turun di Stasiun Kibuneguchi, lanjut naik bus Kyoto#33 ke arah kuil atau berjalan kaki ke utara 30 menit.
+    </string>
+
+    <string name="wak_kifuneshrine_jinja">
+        06.00 – 18.00 (Desember – April), 06.00 – 20.00 (Mei – November).
+    </string>
+
+    <string name="fee_kifuneshrine_jinja">
+        Gratis
+    </string>
+
+    <string name="dae_kifuneshrine_jinja">
+        Utara Kyoto.
+    </string>
+
+    <string name="link_kifuneshrine_jinja">
+        <a href="https://kifunejinja.jp/en/">Bahasa Inggris</a>
+        \n\n<a href="https://kifunejinja.jp/">Bahasa Jepang</a>
+    </string>
+
+    <string name="kor_kifuneshrine_jinja">
+        35.1217, 135.7629
+    </string>
+
+    <string name="des_kinkakuji_tera">
+        Kinkakuji (Paviliun Emas) adalah kuil Zen di Kyoto utara yang dua lantai teratasnya seluruhnya dilapisi daun emas. Secara resmi dikenal sebagai Rokuonji, kuil ini merupakan vila peristirahatan shogun Ashikaga Yoshimitsu, dan menurut wasiatnya, kuil ini menjadi kuil Zen sekte Rinzai setelah kematiannya pada tahun 1408. Kinkakuji adalah inspirasi bagi Ginkakuji (Paviliun Perak) yang diberi nama serupa. Dibangun oleh cucu Yoshimitsu, Ashikaga Yoshimasa.
+        \n\nKinkakuji adalah bangunan mengesankan yang dibangun menghadap ke kolam besar, dan merupakan satu-satunya bangunan yang tersisa dari bekas kompleks pensiunan Yoshimitsu. Kota ini telah terbakar berkali-kali sepanjang sejarahnya termasuk dua kali selama Perang Onin, perang saudara yang menghancurkan sebagian besar Kyoto; dan sekali lagi baru-baru ini pada tahun 1950 ketika dibakar oleh seorang biksu fanatik. Struktur yang sekarang dibangun kembali pada tahun 1955.
+        \n\nKinkakuji dibangun untuk mencerminkan budaya Kitayama mewah yang berkembang di kalangan bangsawan kaya di Kyoto pada masa Yoshimitsu. Setiap lantai mewakili gaya arsitektur yang berbeda.
+        \n\nLantai pertama dibangun dengan gaya Shinden yang digunakan untuk bangunan istana selama Periode Heian, dan dengan pilar kayu alami serta dinding plester putih yang kontras namun melengkapi lantai atas paviliun yang disepuh emas. Patung Buddha Shaka (Buddha sejarah) dan Yoshimitsu disimpan di lantai pertama. Meski tidak memungkinkan untuk memasuki pendopo, namun patung-patung tersebut dapat dilihat dari seberang kolam jika dilihat lebih dekat, karena pintu geser biasanya dibiarkan terbuka.
+    </string>
+
+    <string name="lok_kinkakuji_tera">
+        1 Kinkakuji-cho, Kita-ku, Kyoto 603-8361, Jepang.
+    </string>
+
+    <string name="aks_kinkakuji_tera">
+        Menggunakan bus kota #205 dari Stasiun Kyoto atau bus kota #12 dan #59 dan turun di Kinkakuji-michi Stop, jalan ke barat 5 menit.
+    </string>
+
+    <string name="wak_kinkakuji_tera">
+        09.00 – 17.00 dapat berubah jika ada pameran khusus.
+    </string>
+
+    <string name="fee_kinkakuji_tera">
+        Dewasa ¥500 || SD – SMP ¥300
+    </string>
+
+    <string name="dae_kinkakuji_tera">
+        Utara Kyoto.
+    </string>
+
+    <string name="link_kinkakuji_tera">
+        <a href="https://www.shokoku-ji.jp/en/kinkakuji/">Bahasa Inggris</a>
+        \n\n<a href="https://www.shokoku-ji.jp/kinkakuji/">Bahasa Jepang</a>
+    </string>
+
+    <string name="kor_kinkakuji_tera">
+        35.0394, 135.7292
+    </string>
+
+    <string name="des_kiyomizu_dera_tera">
+        Kiyomizu-dera (Kiyomizu Temple, "Pure Water Monastery") is a Buddhist temple. Yang merupakan salah satu kuil paling terkenal di Jepang. Didirikan pada tahun 780 di lokasi Air Terjun Otowa di perbukitan berhutan di sebelah timur Kyoto, dan namanya diambil dari air murni air terjun tersebut. Kuil ini awalnya dikaitkan dengan sekte Hosso, salah satu aliran tertua dalam agama Budha Jepang, namun membentuk sekte Kita Hosso sendiri pada tahun 1965. Pada tahun 1994, kuil ini ditambahkan ke daftar situs warisan dunia UNESCO.
+        \n\nKiyomizudera terkenal dengan panggung kayunya yang menjorok keluar dari aula utamanya, 13 meter di atas lereng bukit. Panggung ini memberikan pemandangan indah dari banyaknya pohon sakura dan maple di bawahnya yang muncul dalam lautan warna di musim semi dan musim gugur, serta kota Kyoto di kejauhan. Aula utama, yang bersama dengan panggung dibangun tanpa menggunakan paku, menampung objek pemujaan utama kuil, sebuah patung kecil bermuka sebelas, Kannon bersenjata seribu.
+    </string>
+
+    <string name="lok_kiyomizu_dera_tera">
+        1-294, Kiyomizu, Higashiyama-ku, Kyoto-shi, Kyoto, 605-0862, Jepang.
+    </string>
+
+    <string name="aks_kiyomizu_dera_tera">
+        Menggunakan bus kota #206 dari Stasiun Kyoto dan turun di Gojo-zaka atau Kiyomizu-michi Stop, lalu jalan ke arah timur 10 menit.
+    </string>
+
+    <string name="wak_kiyomizu_dera_tera">
+        06.00 – 18.00, sampai 21.00 jika ada acara special tiap musim.
+    </string>
+
+    <string name="fee_kiyomizu_dera_tera">
+        Dewasa ¥400 || SD – SMP ¥200
+    </string>
+
+    <string name="dae_kiyomizu_dera_tera">
+        Timur Kyoto.
+    </string>
+
+    <string name="link_kiyomizu_dera_tera">
+        <a href="https://www.kiyomizudera.or.jp/en/">Bahasa Inggris</a>
+        \n\n<a href="https://www.kiyomizudera.or.jp/">Bahasa Jepang</a>
+    </string>
+
+    <string name="kor_kiyomizu_dera_tera">
+        34.9947, 135.7847
+    </string>
+
+    <string name="des_kurama_dera_tera">
+        Kurama-dera adalah sebuah kuil Buddha di ujung utara Kyoto, Jepang yang menyimpan beberapa Harta Nasional Jepang. Dia merupakan anggota sekte Tendai dan berada di bawah Shōren-in dari abad ke-12 hingga 1949 ketika Dia mendirikan badan keagamaannya sendiri. Objek pemujaan bersifat esoteris dan unik pada candi. Konon didirikan oleh seorang murid Jianzhen.
+        \n\nBangunan utama Kurama-dera berdiri di teras di lereng gunung, menghadap ke lembah berhutan. Di belakang bangunan utama kuil, jalur pendakian berlanjut melalui hutan melewati beberapa bangunan kuil lainnya ke Kibune. Pendakian dari Kurama-dera ke Kibune memakan waktu sekitar satu jam dan terkadang curam.
+    </string>
+
+    <string name="lok_kurama_dera_tera">
+        1074 Kuramahonmachi, Sakyo-ku, Kyoto, 601-1111, Jepang.
+    </string>
+
+    <string name="aks_kurama_dera_tera">
+        Menggunakan Kereta Kurama Line menuju Stasiun Kurama, ke utara naik tangga untuk masuk kuil.
+    </string>
+
+    <string name="wak_kurama_dera_tera">
+        09.00 – 16.00 kuil, 8.40 – 16.30 untuk kereta kabel.
+    </string>
+
+    <string name="fee_kurama_dera_tera">
+        Kuil dewasa ¥200 || Pelajar gratis.
+        \n\nKereta kabel dewasa ¥200 || SD – lebih kecil ¥100
+    </string>
+
+    <string name="dae_kurama_dera_tera">
+        Utara Kyoto.
+    </string>
+
+    <string name="link_kurama_dera_tera">
+        <a href="https://www.kuramadera.or.jp/">Bahasa Jepang</a>
+    </string>
+
+    <string name="kor_kurama_dera_tera">
+        35.11901, 135.77093
+    </string>
+
+    <string name="des_nanzenji_tera">
+        Nanzen-ji (Nanzen-ji), atau Zuiryusan Nanzen-ji, sebelumnya Zenrin-ji (Zenrin-ji), adalah kuil Buddha Zen di Kyoto, Jepang. Kaisar Kameyama mendirikannya pada tahun 1291 di lokasi istana terpisah sebelumnya. Ini juga merupakan markas besar Rinzai Zen cabang Nanzen-ji. Kawasan Nanzen-ji ditetapkan secara nasional sebagai Situs Bersejarah dan taman Hōjō sebagai Tempat dengan Pemandangan Indah. Kuil ini hancur dalam kebakaran pada tahun 1895 dan dibangun kembali pada tahun 1909.
+        \n\nKawasan pusat kuil Nanzenji terbuka untuk umum secara gratis, namun dikenakan biaya terpisah untuk memasuki bangunan kuil dan kuil kecil seperti Nanzen-in Temple Konchi-in Temple Tenjuan Temple. Pengunjung pertama-tama akan menemukan gerbang masuk Sanmon yang besar di Nanzenji, yang membentang di atas puncak pohon. Anda dapat naik ke balkon gerbang, dari mana pemandangan terbentang ke seluruh kota. Di belakang gerbang terdapat Hatto (Aula Dharma), sebuah ruang kuliah besar yang tidak dapat dimasuki oleh umum.
+        \n\nMelewati Hatto adalah Hojo, kediaman mantan pendeta kepala dan aula utama Nanzenji. Hojo paling terkenal dengan taman batunya yang bebatuannya konon menyerupai harimau dan anaknya yang melintasi air. Yang juga sangat dihormati adalah lukisan di pintu geser (fusuma), yang menampilkan gambaran harimau di atas daun emas yang lebih realistis.
+    </string>
+
+    <string name="lok_nanzenji_tera">
+        86 Nanzenji Fukuchicho, Sakyo-ku, Kyoto, 606-8435, Jepang.
+    </string>
+
+    <string name="aks_nanzenji_tera">
+        Menggunakan bus kota #5 lalu berhenti di Nanzenji-Eikando-michi, jalan ke tenggara 6 menit.
+        \n\nMenggunakan Kereta bawah tanah Tozai Line lalu berhenti di Stasiun Keage, jalan ke timur laut 10 menit
+    </string>
+
+    <string name="wak_nanzenji_tera">
+        Desember – Februari 08.40 – 16.30 || Maret – November 08.40 – 17.00.
+    </string>
+
+    <string name="fee_nanzenji_tera">
+        Aula Kuil Gratis
+        \n\nHojo Garden : dewasa ¥600 || SMA ¥500 || SD – SMP ¥400
+        \n\nSanmon : dewasa ¥600 || SMA ¥500 || SD – SMP ¥400
+        \n\nNanzen-In : dewasa ¥400 || SMA ¥350 || SD – SMP ¥250
+        \n\nPenyandang disabilitas gratis
+        \n\n(Diskon bila grup lebih dari 20 orang)
+    </string>
+
+    <string name="dae_nanzenji_tera">
+        Timur Kyoto.
+    </string>
+
+    <string name="link_nanzenji_tera">
+        <a href="https://nanzenji.or.jp/">Bahasa Jepang</a>
+    </string>
+
+    <string name="kor_nanzenji_tera">
+        35.0114, 135.7945
+    </string>
+
+    <string name="des_rengeoin_sanjusangendo_tera">
+        Sanjusangendo (Sanjūsangendō) adalah nama populer untuk Rengeo-in, sebuah kuil di timur Kyoto yang terkenal dengan 1001 patung Kannon, dewi belas kasihan. Kuil ini didirikan pada tahun 1164 dan dibangun kembali satu abad kemudian setelah struktur aslinya hancur dalam kebakaran.
+        \n\nBerukuran 120 meter, aula kuil adalah bangunan kayu terpanjang di Jepang. Nama Sanjusangendo (secara harfiah berarti "33 interval") berasal dari jumlah interval antara kolom penyangga bangunan, sebuah metode tradisional untuk mengukur ukuran sebuah bangunan. Di tengah aula utama terdapat patung kayu besar Kannon berlengan 1000 (Senju Kannon) yang diapit di setiap sisinya oleh 500 patung Kannon berlengan 1000 manusia berukuran manusia yang berdiri dalam sepuluh baris. Bersama-sama mereka menghasilkan pemandangan yang menakjubkan.
+        \n\nKannon yang berlengan 1000 dilengkapi dengan 11 kepala untuk menyaksikan penderitaan manusia dengan lebih baik dan dengan 1000 lengan untuk membantu mereka melawan penderitaan dengan lebih baik. Perhatikan bahwa patung sebenarnya masing-masing hanya memiliki 42 lengan. Kurangi dua lengan beraturan dan kalikan dengan 25 alam eksistensi untuk mendapatkan seribu penuh.
+    </string>
+
+    <string name="lok_rengeoin_sanjusangendo_tera">
+        657 Sanjusangendo mawari, Higashiyam-ku, Kyoto, 605-0941, Jepang.
+    </string>
+
+    <string name="aks_rengeoin_sanjusangendo_tera">
+        Menggunakan bus kota #206 atau #208 lalu turun di Hakubutsukan Sanjusangendo-mae, jalan ke selatan 1 menit.
+        \n\nMenggunakan Kereta Keihan Main Line lalu turun di Stasiun Shichijo, jalan ke timur 8 menit.
+    </string>
+
+    <string name="wak_rengeoin_sanjusangendo_tera">
+        April – 15 November 08.30 – 17.00 || 16 November – Maret 09.00 – 16.00.
+    </string>
+
+    <string name="fee_rengeoin_sanjusangendo_tera">
+        Dewasa ¥600 || SMP – SMA ¥400 || SD ¥300.
+        \n\nPenyandang Disabilitas Gratis dan 50% diskon untuk pengantarnya.
+        \n\n(Diskon bila grup lebih dari 25 orang).
+    </string>
+
+    <string name="dae_rengeoin_sanjusangendo_tera">
+        Timur Kyoto.
+    </string>
+
+    <string name="link_rengeoin_sanjusangendo_tera">
+        <a href="https://www.sanjusangendo.jp/">Bahasa Jepang</a>
+    </string>
+
+    <string name="kor_rengeoin_sanjusangendo_tera">
+        34.98787, 135.77169
+    </string>
+
+    <string name="des_shimogamoshrine_jinja">
+        Kuil Shimogamo (Shimogamo-jinja) adalah tempat suci Shinto yang penting di distrik Shimogamo di bangsal Sakyō kota Kyoto. Nama resminya adalah Kamo-mioya-jinja. Ini adalah salah satu kuil Shinto tertua di Jepang dan merupakan salah satu dari tujuh belas Monumen Bersejarah Kyoto Kuno yang telah ditetapkan oleh UNESCO sebagai Situs Warisan Dunia. Istilah Kamo-jinja dalam bahasa Jepang adalah referensi umum untuk Kuil Shimogamo dan Kuil Kamigamo, kuil Kamo yang terhubung secara tradisional di Kyoto. Shimogamo adalah yang lebih tua dari keduanya, diyakini 100 tahun lebih tua dari Kamigamo, dan berasal dari abad ke-6, berabad-abad sebelum Kyoto menjadi ibu kota Jepang (794, lihat Heian-kyō). Kamo-jinja berfungsi melindungi Kyoto dari pengaruh jahat.
+        \n\nTerletak di tepi selatan sungai Kamo, Kamomioya-jinja mencerminkan sekaligus menginspirasi Kota Kyoto. Bahkan nama umumnya adalah produk kota tersebut. “Shimo-,” artinya lebih rendah, dan “-gamo,” diambil dari nama sungai pusat kota, menghasilkan Shimogamo yang familiar. Pencipta dan penjaga kota, Kamotaketsunomi-no-mikoto, diabadikan di tempat suci utama kuil, bersama putrinya Tamayorihime-no-mikoto, seorang tokoh mitos dengan reputasinya sendiri.
+    </string>
+
+    <string name="lok_shimogamoshrine_jinja">
+        59 Shimogamo Izumigawa-cho, Sakyo-ku, Kyoto 606-0807, Jepang.
+    </string>
+
+    <string name="aks_shimogamoshrine_jinja">
+        Menggunakan bus kota No 4 atau No 205 turun di Shimogamo Jinja-mae, jalan ke timur laut 3 menit.
+        \n\nMenggunakan Karasuma Line turun di Stasiun Kitaoji lalu naik bus #205 menuju Shimogamo Jinja-mae.
+    </string>
+
+    <string name="wak_shimogamoshrine_jinja">
+        06.00 – 17.00 dapat berubah jika ada acara keagamaan.
+    </string>
+
+    <string name="fee_shimogamoshrine_jinja">
+        Gratis.
+    </string>
+
+    <string name="dae_shimogamoshrine_jinja">
+        Utara Kyoto.
+    </string>
+
+    <string name="link_shimogamoshrine_jinja">
+        <a href="https://www.shimogamo-jinja.or.jp/english/">Bahasa Inggris</a>
+        \n\n<a href="https://www.shimogamo-jinja.or.jp/">Bahasa Jepang</a>
+    </string>
+
+    <string name="kor_shimogamoshrine_jinja">
+        35.0390, 135.7730
+    </string>
+
+    <string name="des_tenryuji_tera">
+        Tenryū-ji, yang secara resmi dikenal sebagai Tenryū Shiseizen-ji, adalah kuil utama cabang Tenryū-ji dari sekte Rinzai dalam Buddhisme Zen. Tenryuji dibangun pada tahun 1339 oleh shogun yang berkuasa Ashikaga Takauji. Takauji mendedikasikan kuil tersebut untuk Kaisar Go-Daigo, yang baru saja meninggal dunia. Kedua tokoh penting bersejarah ini dulunya adalah sekutu sampai Takauji berbalik melawan kaisar dalam perebutan supremasi atas Jepang. Dengan membangun kuil tersebut, Takauji bermaksud menenangkan arwah mantan kaisar.
+        \n\nBangunan Tenryuji, berulang kali hilang dalam kebakaran dan peperangan selama berabad-abad, dan sebagian besar aula saat ini, termasuk aula utama (Hojo), ruang gambar (Shoin) dan dapur kuil (Kuri) dengan menara kecilnya yang khas, berasal dari zaman yang relatif baru. Periode Meiji baru-baru ini (1868-1912).
+        \n\nBerbeda dengan bangunan kuil, taman Tenryuji bertahan berabad-abad dalam bentuk aslinya. Dibuat oleh desainer taman terkenal Muso Soseki, yang juga mendesain taman Kokedera dan kuil penting lainnya, taman lanskap yang indah ini memiliki kolam tengah yang dikelilingi oleh bebatuan, pohon pinus, dan hutan pegunungan Arashiyama. Muso Soseki juga menjabat sebagai kepala pendeta pertama Tenryuji.
+    </string>
+
+    <string name="lok_tenryuji_tera">
+        68 Susukinobaba-cho, Saga-Tenryuji, Ukyo-ku, Kyoto-shi, 616-8385, Jepang.
+    </string>
+
+    <string name="aks_tenryuji_tera">
+        Menggunakan bus Kyoto #72, bus kota #11, atau #28 turun di Arashiyama Tenryu-ji Mae, jalan ke utara 4 menit.
+        \n\nMenggunakan Kereta Sagano Line turun di stasiun Saga-Arashiyama, jalan ke barat 9 menit.
+    </string>
+
+    <string name="wak_tenryuji_tera">
+        08.30 – 05.00.
+    </string>
+
+    <string name="fee_tenryuji_tera">
+        Taman : Dewasa ¥500 || SD – SMP ¥300.
+        \n\nMemasuki Bangunan tambah ¥300.
+        \n\nPenampilan Drama Cloud-Dragon ¥500 (Hari Libur).
+    </string>
+
+    <string name="dae_tenryuji_tera">
+        Barat Kyoto.
+    </string>
+
+    <string name="link_tenryuji_tera">
+        <a href="https://www.tenryuji.com/en/">Bahasa Inggris</a>
+        \n\n<a href="https://www.tenryuji.com/">Bahasa Jepang</a>
+    </string>
+
+    <string name="kor_tenryuji_tera">
+        35.0166, 135.6746
+    </string>
+
+
+    <string name="des_toji_tera">
+        Kuil Tō-ji (Tō-ji, "Kuil Timur"), juga dikenal sebagai Kyō-ō-gokoku-ji (Kuil Pertahanan Bangsa Melalui Raja Doktrin) adalah Kuil Buddha Shingon.
+        \n\nAula Kondo, salah satu bangunan asli Toji, adalah aula utama kuil dan bangunan terbesar. Hancur akibat kebakaran besar pada tahun 1486, bangunan ini dibangun kembali pada awal Zaman Edo dengan gaya arsitektur kontemporer dan menampung objek pemujaan utama Toji, patung kayu Buddha Yakushi, diapit oleh dua pengiringnya, Nikko dan Gakko Bodhisattva.
+        \n\nTepat di sebelahnya berdiri Aula Kodo, yang ditambahkan pada tahun 825 oleh Kobo Daishi dan berfungsi sebagai ruang kuliah kuil. Itu juga terbakar pada kebakaran tahun 1486, dan kemudian dibangun kembali dengan gaya arsitektur aslinya. Aula Kodo menampung 19 patung yang diimpor oleh Kobo Daishi dari Tiongkok, yang disusun menurut mandala dengan Buddha Dainichi (Vairocana) di tengahnya, dikelilingi oleh Buddha, bodhisattva, dan raja penakut dan penjaga.
+        \n\nDi seberang Kondo dan Kodo berdiri pagoda lima lantai Toji, yang awalnya didirikan oleh Kobo Daishi pada tahun 826. Tingginya 57 meter, menjadikannya pagoda kayu tertinggi di Jepang, dan telah menjadi simbol kuil dan Kyoto pada saat itu. dapat dilihat dari banyak tempat di seluruh kota. Lantai dasar pagoda kadang-kadang dibuka untuk umum dan menampung empat patung Buddha yang lebih kecil.
+        \n\nPasar loak populer (Kobo-ichi Market) diadakan pada tanggal 21 setiap bulan di Kuil Toji dari pagi hari hingga sekitar pukul 16:30 sore. Pasar yang ramai ini dipenuhi dengan pedagang di alun-alun dan di taman yang mengelilingi halaman kuil berbayar. Berbagai macam barang baru dan bekas dijual, termasuk pakaian, peralatan, patung, kimono, barang antik, tembikar, mainan, makanan, dan tanaman. Pasar barang antic (Garakuta-ichi) yang lebih kecil diadakan pada hari Minggu pertama setiap bulan.
+    </string>
+
+    <string name="lok_toji_tera">
+        1 Kujocho, Minami-ku, Kyoto, 601-8473, Jepang.
+    </string>
+
+    <string name="aks_toji_tera">
+        Jalan 15 menit ke arah barat daya dari Stasiun Kyoto.
+        \n\nMenggunakan Kereta Kinetsu Line turun di Stasiun ToJi, jalan ke barat 5 menit.
+    </string>
+
+    <string name="wak_toji_tera">
+        20 Maret – 17 April 08.30 – 16.30 || 18 April – 19 September 08.30 – 17.00 || 20 September – 19 Maret 08.30 – 16.00.
+    </string>
+
+    <string name="fee_toji_tera">
+        Dewasa ¥500 || SMA ¥400 || SD – SMP ¥300
+        \n\n(diskon bila grup lebih dari 30 orang)
+        \n\nAda tambahan bila ingin melihat acara khusus dengan jadwal tertentu.
+    </string>
+
+    <string name="dae_toji_tera">
+        Selatan Kyoto.
+    </string>
+
+    <string name="link_toji_tera">
+        <a href="https://toji.or.jp/en/">Bahasa Inggris</a>
+        \n\n<a href="https://toji.or.jp/">Bahasa Jepang</a>
+    </string>
+
+    <string name="kor_toji_tera">
+        34.9806, 135.7478
+    </string>
+
+    <string name="des_yasaka_shrine_jinja">
+        Kuil Yasaka (Yasaka-jinja), dulu disebut Kuil Gion (Gion-jinja), adalah sebuah kuil Shinto di Distrik Gion, Kyoto, Jepang. Terletak di ujung timur Shijō-dōri (Fourth Avenue), kuil ini mencakup beberapa bangunan, termasuk gerbang, aula utama, dan panggung. Kuil Yasaka didedikasikan untuk Susanoo dalam tradisi kepercayaan Gion sebagai kami (Dewa) utamanya, dengan permaisuri Kushinadahime di timur, dan delapan dewa keturunan (yahashira no mikogami) di barat. Yahashira no mikogami termasuk Yashimajinumi no kami, Itakeru no kami, Ōyatsuhime no kami, Tsumatsuhime no kami, Ōtoshi no kami, Ukanomitama no kami, Ōyatsuhiko no kami, dan Suseribime no mikoto.
+        \n\nAula utama kuil menggabungkan honden (tempat suci bagian dalam) dan haiden (aula persembahan) menjadi satu bangunan. Di depannya berdiri panggung tari dengan ratusan lampion yang menyala di malam hari. Setiap lentera bertuliskan nama bisnis lokal sebagai imbalan atas sumbangannya.
+    </string>
+
+    <string name="lok_yasaka_shrine_jinja">
+        68 Susukinobaba-cho, Saga-Tenryuji, Ukyo-ku, Kyoto-shi, 616-8385, Jepang.
+    </string>
+
+    <string name="aks_yasaka_shrine_jinja">
+        Menggunakan bus Kyoto #72, bus kota #11, atau #28 turun di Arashiyama Tenryu-ji Mae, jalan ke utara 4 menit.
+        \n\nMenggunakan Kereta Sagano Line turun di stasiun Saga-Arashiyama, jalan ke barat 9 menit.
+    </string>
+
+    <string name="wak_yasaka_shrine_jinja">
+        08.30 – 05.00.
+    </string>
+
+    <string name="fee_yasaka_shrine_jinja">
+        Taman : Dewasa ¥500 || SD – SMP ¥300.
+        \n\nMemasuki Bangunan tambah ¥300.
+        \n\nPenampilan Drama Cloud-Dragon ¥500 (Hari Libur).
+    </string>
+
+    <string name="dae_yasaka_shrine_jinja">
+        Barat Kyoto.
+    </string>
+
+    <string name="link_yasaka_shrine_jinja">
+        <a href="https://www.tenryuji.com/en/">Bahasa Inggris</a>
+        \n\n<a href="https://www.tenryuji.com/">Bahasa Jepang</a>
+    </string>
+
+    <string name="kor_yasaka_shrine_jinja">
+        35.0166, 135.6746
+    </string>
+
+    <string name="des_chirimensansho">
+        Chirimen Sansho dibuat dengan merebus buah chirimenjako (sarden muda kering) dan sansho (lada Jepang) dalam kecap yang biasanya di campur makan dengan nasi. Makanan nostalgia ini konon berasal dari Kyoto dan tetap menjadi oleh-oleh populer bagi pengunjung.
+    </string>
+
+    <string name="lok_chirimensansho">
+        Untuk kemasan hampir ada di setiap toko makanan dan siap makan banyak sajikan di restoran atau cafe.
+        \n\nSalah satunya Chirimen Sansho Yayoi, lokasi 481 Gion Shimogawara Kiyoicho, Higashiyama-Ku, Kyoto.
+    </string>
+
+    <string name="aks_chirimensansho">
+        ke arah selatan dari Kuil Yasaka 3 menit.
+    </string>
+
+    <string name="wak_chirimensansho">
+        10.00 – 17.00. Makanan tiap musim.
+    </string>
+
+    <string name="fee_chirimensansho">
+        Sekitar ¥750 – ¥1000 (kemasan 30gr – 55gr) ||  Sekitar ¥650 – ¥1500 (1 porsi menu)
+    </string>
+
+    <string name="dae_chirimensansho">
+        Timur Kyoto.
+    </string>
+
+    <string name="link_chirimensansho">
+        <a href="https://www.yayoi-ojako.co.jp/en/ojako">Link</a>
+    </string>
+
+    <string name="kor_chirimensansho">
+        35.00185, 135.77840
+    </string>
+
+    <string name="des_hamonootoshi">
+        Dibandingkan ikan lainnya, hamo memiliki banyak tulang kecil yang sulit dihilangkan, sehingga ikan ini tidak layak untuk dimakan apa adanya; oleh karena itu sering kali digiling untuk dikonsumsi. Akhirnya, juru masak Kyoto mengembangkan metode khusus yang disebut honekiri untuk memotong tulang-tulang ini menggunakan pisau khusus. Perutnya dibuka, tulang punggungnya diangkat, dan dibuat 26 sayatan halus setiap 3 sentimeter tanpa memotong kulit. Berkat metode ini, hamo menjadi lembut saat dimakan, tanpa ada sedikit pun tulang di mulut. Mungkin diperlukan waktu hampir satu dekade bagi seorang koki untuk memperoleh keterampilan honekiri yang tepat agar dapat menjadi ahli seni yang sesungguhnya.
+        \n\nSaat menyiapkan hamo, tidak ada bagian ikan yang terbuang. Kepala dan tulangnya digunakan untuk membuat kaldu dashi, dan dagingnya dapat disajikan dengan berbagai cara. Rebus hamo yang sudah diolah dengan honekiri dan dagingnya akan menggulung kembali hingga daging putihnya terlihat seperti bunga mekar: botan-hamo adalah sup yang ikannya menyerupai botan (peony). Dinginkan dengan air es untuk hamo no otoshi, dimakan dengan pasta ume (acar plum) dan miso mustard-cuka; atau nikmati hamo-sushi yang populer, sushi daging hamo yang dilapisi saus teriyaki berbahan dasar kecap.
+    </string>
+
+    <string name="lok_hamonootoshi">
+        Banyak disajikan di restoran makanan musim panas.
+        \n\nContohnya Restoran Nakagawa Sanjo Kiya-machi, lokasi 532-20, Kamiosaka-cho, Sanjo Kiyamachi-agaru, Nakagyo-ku, Kyoto-shi, Kyoto.  B1F, Forum Kiyamachi Bldg.
+    </string>
+
+    <string name="aks_hamonootoshi">
+        Restoran dekat dengan Stasiun Sanjo. Menggunakan kereta bawah tanah Tozai Line atau Keihan Main Line, lalu jalan ke barat 3 menit.
+    </string>
+
+    <string name="wak_hamonootoshi">
+        12.00 – 14.00 (harus reservasi) || 17.00 – 22.00. Makanan spesial musim panas
+    </string>
+
+    <string name="fee_hamonootoshi">
+        Sekitar ¥8000 – ¥30000 (1 menu lengkap)
+    </string>
+
+    <string name="dae_hamonootoshi">
+        Timur Kyoto.
+    </string>
+
+    <string name="link_hamonootoshi">
+        <a href="https://www.kappou-nakagawa-sanjo.com/">Link</a>
+    </string>
+
+    <string name="kor_hamonootoshi">
+        35.00929, 135.77063
+    </string>
+
+    <string name="des_kamonasudengaku">
+        Untuk membuat Nasu Dengaku, terong dibelah dua lalu digoreng dengan minyak sebentar. Ini tidak akan membuat terung matang sepenuhnya, selebihnya akan dilakukan di bawah api langsung. Dalam oven atau ayam pedaging ala Jepang, setengah terong dimasak. Jika sudah matang, dengaku miso ditambahkan di atasnya dan dimasukkan kembali ke dalam oven.
+        \n\nNasu dengaku ini menggunakan dua jenis miso; manis (putih, terang) dan asin (merah, gelap). Di sini miso putihnya kaya akan rasa wijen dan miso merah diberi hiasan biji poppy, untuk sentuhan kontemporer. Terong yang digunakan adalah Kamo Nasu yang terkenal di Kyoto.
+        \n\nHidangan ini disajikan mulai awal bulan Juli, dan sering disajikan di restoran tradisional Jepang selama festival Gion pada bulan Juli.
+    </string>
+
+    <string name="lok_kamonasudengaku">
+        Banyak disajikan di restoran makanan bertema Izakaya sebagai pelengkap khususnya Juni sampai Oktober.
+        \n\nContohnya Restoran Uguisu, lokasi 1F, ON Bldg., 544-2, Higashi Shiokoji-cho, Shimogyo-ku, Kyoto-shi, Kyoto.
+    </string>
+
+    <string name="aks_kamonasudengaku">
+        Restoran dekat dengan Stasiun Kyoto jalan ke arah timur laut 1 menit.
+    </string>
+
+    <string name="wak_kamonasudengaku">
+        17.00 – 00.00 (hari kerja) || 16.00 – 00.00 (akhir pekan).
+    </string>
+
+    <string name="fee_kamonasudengaku">
+        Sekitar ¥780 (1 porsi paket kamonasu)
+    </string>
+
+    <string name="dae_kamonasudengaku">
+        Pusat Kyoto.
+    </string>
+
+    <string name="link_kamonasudengaku">
+        <a href="https://www.hotpepper.jp/strJ001170551/">Link</a>
+    </string>
+
+    <string name="kor_kamonasudengaku">
+        34.98742, 135.76085
+    </string>
+
+    <string name="des_kyotsukemono">
+        Tsukemono didasarkan pada sayuran khas Kyoto, buah-buahan, jamur, rumput laut. Tukemono memiliki klasifikasi yaitu acar satu malam atau jangka pendek sampai acar jangka panjang. Dan bumbunya mengubah rasa dan namanya seperti Tsukemono dari miso, garam, sumber kedelai, dedak padi. Bahan yang sangat diperlukan untuk Tsukemono adalah garam. Sayuran yang diawetkan dengan garam akan menjadi lunak dan mengeluarkan air. Bakteri asam laktat berfermentasi dan memberikan rasa yang unik. Tekanan osmotik yang tinggi mencegah pembusukan.
+    </string>
+
+    <string name="lok_kyotsukemono">
+        Banyak disajikan di restoran, toko makanan, atau yang bertema sayuran.
+        \n\nContohnya Toko Makanan Nishiri, lokasi 150-1, Hishiya-cho, Shimogyo-ku, Kyoto-shi, Kyoto.
+    </string>
+
+    <string name="aks_kyotsukemono">
+        Toko ada di barat laut Stasiun Kyoto, menggunakan bus kota #205 dan turun di Nanjo Horikawa toko ada di sebrang jalan, atau berjalan kaki dari Stasiun Kyoto 11 menit.
+    </string>
+
+    <string name="wak_kyotsukemono">
+        09.00 – 17.30.
+    </string>
+
+    <string name="fee_kyotsukemono">
+        Sekitar ¥1300 (1 porsi pilihan acar)
+    </string>
+
+    <string name="dae_kyotsukemono">
+        Pusat Kyoto.
+    </string>
+
+    <string name="link_kyotsukemono">
+        <a href="https://www.nishiri.co.jp/ ">Link</a>
+    </string>
+
+    <string name="kor_kyotsukemono">
+        34.98976, 135.75337
+    </string>
+
+    <string name="des_yatsuhashi">
+        Yatsuhashi adalah camilan khas Kyoto yang terkenal dengan teksturnya yang unik dan aroma kayu manisnya yang khas.
+        \n\nKebanyakan orang lebih familier dengan "nama yatsuhashi" (yatsuhashi mentah) yang teksturnya selembut daun telinga dan berisi anko. Akan tetapi, sebenarnya dulu yatsuhashi disajikan dengan cara dipanggang. Kini variasi rasa dan bentuk yatsuhashi pun semakin bertambah.
+    </string>
+
+    <string name="lok_yatsuhashi">
+        Banyak dijual toko makanan atau oleh – oleh.
+        \n\nContohnya Toko Makanan Izutsu Yatsuhashi Honpo, lokasi Kitaza bldg 1F, Kawabata-dori Shijo-Kamiru, Higashiyama-ku, Kyoto-shi, Kyoto.
+    </string>
+
+    <string name="aks_yatsuhashi">
+        Berjalan 1 menit toko ada di utara Stasiun Gion-Shijo Keihan Main Line.
+    </string>
+
+    <string name="wak_yatsuhashi">
+        10.30 – 18.30.
+    </string>
+
+    <string name="fee_yatsuhashi">
+        Sekitar ¥300 – ¥500 (per pak atau 100gr)
+    </string>
+
+    <string name="dae_yatsuhashi">
+        Timur Kyoto
+    </string>
+
+    <string name="link_yatsuhashi">
+        <a href="https://www.yatsuhashi.co.jp/">Link</a>
+    </string>
+
+    <string name="kor_yatsuhashi">
+        35.00443, 135.77248
+    </string>
+
+    <string name="des_yudofu">
+        Yudofu merupakan salah satu makanan soup populer di Jepang saat musim dingin. Yudofu yang berarti tofu hot pot merupakan sajian dengan berbahan utama tahu lembut yang dipotong kotak dan dimasak dengan kuah kaldu dan beragam sayuran. Dari bumbu yang digunakan untuk kaldunya, Yudofu berbeda-beda tergantung daerah di Jepang.
+        \n\nSebenarnya Yudofu masih termasuk ke dalam jenis masakan nabe, yaitu makanan yang dihidangkan dalam panci atau hot pot.
+        \n\nPanci yang sudah berisi berbagai bahan tersebut diletakkan di atas kompor kecil atau plat pemanas di atas meja dan langsung disajikan. Yudofu biasanya disajikan untuk beberapa orang sekaligus. Mereka duduk mengelilingi meja tersebut kemudian mengambil sendiri Yudofu ke dalam mangkuk masing-masing.
+        \n\nYudofu dapat disajikan dengan saus Ponzu, saus khas Jepang yang terbuat dari jeruk. Atau bisa juga menggunakan Yuzu Kosho, saus khas Jepang yang terbuat dari bubuk cabai, kulit Yuzu (sejenis jeruk) dan garam.
+        \n\nMakanan ini menjadi salah satu makanan khas di kota Kyoto, sebaiknya kamu mencobanya ketika berkunjung ke Kyoto. Karena bahannya yang hanya menggunakan sayur-sayuran, Yudofu merupakan menu yang sangat cocok untuk kamu yang sedang ingin berdiet.
+    </string>
+
+    <string name="lok_yudofu">
+        Banyak disajikan tiap restoran.
+        \n\nContohnya Yudofu Sagano, lokasi 45 Saga Tenryu ji, Aonobaba-cho, Ukyo-ku, Kyoto - shi, Kyoto.
+    </string>
+
+    <string name="aks_yudofu">
+        Lokasi dekat dari Kuil Tenryu ji, berjalan ke arah selatan dari kuil Tenryu Ji 1 menit.
+    </string>
+
+    <string name="wak_yudofu">
+        11.00 – 17.30 (lebih cepat jika Tahu habis).
+    </string>
+
+    <string name="fee_yudofu">
+        Sekitar ¥4000 – ¥7700 (1 paket menu)
+    </string>
+
+    <string name="dae_yudofu">
+        Barat Kyoto
+    </string>
+
+    <string name="link_yudofu">
+        <a href="https://kyoto-sagano.jp/">Link</a>
+    </string>
+
+    <string name="kor_yudofu">
+        35.01442, 135.67444
+    </string>
+
+    <string name="des_kaiseki">
+        Kaiseki adalah jamuan makan ala Jepang yang menyajikan sejumlah menu khas Jepang dengan keterampilan dan teknik yang tinggi. Kaiseki pada awalnya hanya bisa dinikmati oleh keluarga kerajaan saja. Tapi seiring dengan perkembangan zaman, saat ini kaisekisudah bisa dinikmati oleh semua kalangan. Selain itu kaiseki juga bermakna sebagai keramahtamahan kepada para tamu kerajaan. Di masa sekarang, makna tersebut masih dipegang teguh oleh masyarakat Jepang. Jadi kalau kamu diajak seseorang untuk menyantap jamuan makan ala kaiseki, maka orang tersebut sangat menghormatimu.
+        \n\nPertama-tama tamu akan disuguhkan dengan makanan pembuka atau sakizuke. Kemudian barulah dihidangkan makanan utama berupa nimono atau kuliner yang direbus, mukozuke atau hidangan mentah seperti sashimi, yakimono atau hidangan yang dipanggang, dan hanmono atau hidangan nasi. Pada saat hidangan ini disajikan, tamu tak boleh serta merta langsung menyantapnya, santap dulu nasi dan makanan pembuka seperti sup. Hal ini bertujuan untuk memberi kehangatan terlebih dulu pada perut. Barulah setelah itu tamu bisa menyantap beberapa makanan pembuka selain sup. Jika diperhatikan, ukuran makanan pembuka pada tradisi kaiseki ini mirip dengan canape (makanan yang di desain sekali lahap), jadi bisa langsung habis dalam sekali lahap.
+        \n\nSetelah menyantap makanan pembuka, tamu mulai bisa menyantap makanan utama. Biasanya kebanyakan orang Jepang akan memilih untuk menyantap mukozuke terlebih dahulu karena masih fresh, lalu dilanjutkan dengan ninomo dan yakinomo, tentunya dengan tambahan hanmono di sela-selanya. Jika sudah selesai makan, hidangan pencuci mulutnya pada kaiseki adalah mochi dan teh hijau. Ketika menyantap keduanya, disantap lah dengan santai.
+    </string>
+
+    <string name="lok_kaiseki">
+        Disajikan restoran atau penginapan.
+        \n\nContohnya restoran Hanasaki, lokasi 570-17, Gion machi minamigawa, Higashiyama-ku, Kyoto-shi, Kyoto.
+    </string>
+
+    <string name="aks_kaiseki">
+        Lokasi dekat dari Kuil Yasaka, berjalan ke barat daya dari Kuil Yasaka 5 menit.
+    </string>
+
+    <string name="wak_kaiseki">
+        11.30 – 14.00 (makan siang) || 17.30 – 22.00 (makan malam).
+    </string>
+
+    <string name="fee_kaiseki">
+        Sekitar ¥4400 – ¥22000 (1 paket menu)
+    </string>
+
+    <string name="dae_kaiseki">
+        Timur Kyoto
+    </string>
+
+    <string name="link_kaiseki">
+        <a href="https://www.gion-hanasaki.com/ ">Link</a>
+    </string>
+
+    <string name="kor_kaiseki">
+        35.00226, 135.77628
+    </string>
+
+    <string name="des_aoimatsuri">
+        Daya tarik utama festival ini adalah parade besar, di mana lebih dari 500 orang berpakaian gaya aristokrat Periode Heian (794-1185) berjalan dari Istana Kekaisaran ke Kuil Kamo.
+        \n\nSebelum Kyoto ditetapkan sebagai ibu kota negara pada tahun 794, Aoi Matsuri dimulai pada abad ke-7, meskipun asal muasalnya tidak diketahui secara pasti. Kemungkinan besar terjadi bencana alam yang diyakini disebabkan oleh para dewa di Kuil Kamo. Setelah Kaisar memberikan persembahan kepada para dewa, bencana mereda dan sebuah tradisi pun dimulai. Nama resmi festival ini tetap Kamo Matsuri, karena hubungannya dengan kuil.
+        \n\nFestival ini semakin terkenal sehingga pada Periode Heian. Saat ini, prosesi besar-besaran menggambarkan betapa tingginya penghargaan terhadap festival tersebut. Ada laki-laki menunggang kuda, karangan bunga raksasa, kereta sapi yang dihias dengan hiasan, dan rombongan besar wanita dalam kimono menemani festival.
+        \n\nSecara tradisional, Saio (Itsuki no Mikoto) adalah seorang wanita muda anggota keluarga kekaisaran yang menjabat sebagai pendeta tinggi di Kuil Kamo dan melakukan ritual selama festival. Saat ini, seorang wanita yang belum menikah dari Kyoto dipilih setiap tahun untuk menjadi Saio. Dia harus melalui upacara penyucian sebelum festival dan dibawa melalui prosesi dengan tandu.
+    </string>
+
+    <string name="lok_aoimatsuri">
+        Kuil Kamigamo (Kamigamo Jinja), Kuil Shimogamo (Shmogamo Jinja), dan Kyoto Imperial Palace.
+    </string>
+
+    <string name="aks_aoimatsuri">
+        Menggunakan kereta bawah tanah Karasuma Line turun di Stasiun Marumatchi atau Imadegawa, lalu menuju Imperial Palace, karena Festival di mulai dari gerbang selatan Imperial Palace – Kuil Shimogamo – Kuil Kamigamo.
+    </string>
+
+    <string name="wak_aoimatsuri">
+        15 Mei, 10.30 sampai selesai
+    </string>
+
+    <string name="fee_aoimatsuri">
+        Gratis.
+    </string>
+
+    <string name="dae_aoimatsuri">
+        Pusat Kyoto – Utara Kyoto.
+    </string>
+
+    <string name="link_aoimatsuri">
+        <a href="https://www.youtube.com/watch?v=7VUcKSPS23I">Aoi Festival</a>
+        \n\n<a href="https://www.youtube.com/watch?v=LZa0dgcttqw">Aoi Festival</a>
+    </string>
+
+    <string name="kor_aoimatsuri">
+        35.0259, 135.7616
+    </string>
+
+    <string name="des_gionmatsuri">
+        Gion Matsuri , festival Kuil Yasaka, adalah festival paling terkenal di Jepang. Itu terjadi sepanjang bulan Juli. Ada banyak acara yang berbeda, namun prosesi akbar kendaraan hias (Yamaboko Junko) pada tanggal 17 Juli.
+        \n\nIronisnya, peristiwa penting Gion Matsuri sebenarnya tidak terjadi di distrik Gion melainkan di seberang Sungai Kamo. Selama tiga hari sebelum prosesi, masing-masing yama dan hoko ditampilkan dalam jarak sekitar setengah kilometer dari persimpangan jalan Karasuma dan Shijo. Saat dipajang, beberapa kendaraan hias dapat dimasuki oleh wisatawan.
+        \n\nKawasan ini menjadi paling menarik di malam hari, ketika dari pukul 18:00 hingga 23:00 jalanan ditutup untuk lalu lintas dan kawasan tersebut dipenuhi dengan kedai makanan, penjual minuman, dan ciri khas festival lainnya. Malam perayaan menjelang prosesi ini dikenal sebagai Yoiyama (16 Juli), Yoiyoiyama (15 Juli) dan Yoiyoiyoiyama (14 Juli). Perayaan serupa juga diadakan pada tiga malam menjelang prosesi pada tanggal 24 Juli, meskipun dalam skala yang lebih kecil dan dengan lebih sedikit penutupan jalan dan stand.
+        \n\nProsesi kendaraan hias (Yamaboko Junko) berlangsung antara pukul 09:00 dan 13:00 pada tanggal 17 dan dari pukul 09:30 hingga 11:50 pada tanggal 24 dan mengikuti rute sepanjang tiga kilometer di sepanjang jalan Shijo, Kawaramachi, dan Oike (mulai dari Shijo-Karasuma pada tanggal 17 dan dari Karasuma-Oike pada tanggal 24). Namun karena prosesi berlangsung dalam rute dan durasi yang cukup panjang, sudut pandang yang bagus juga dapat ditemukan di tempat lain tanpa terlalu banyak kesulitan.
+    </string>
+
+    <string name="lok_gionmatsuri">
+        Kuil Yasaka (Yasaka Jinja), jalan Shijo, jalan Kawaramichi, dan jalan Fuyachou.
+    </string>
+
+    <string name="aks_gionmatsuri">
+        Mayoritas acara Festival berada di distrik Higashiyama dan Kuil Yasaka. Menggunakan Kereta Keihan Main Line turun di Stasiun Gion-Shijo atau Hangkyu Kyoto Line turun di Stasiun Karasuma untuk melihat parade di jalan.
+    </string>
+
+    <string name="wak_gionmatsuri">
+        Sepanjang bulan juli
+    </string>
+
+    <string name="fee_gionmatsuri">
+        Gratis.
+    </string>
+
+    <string name="dae_gionmatsuri">
+        Timur Kyoto.
+    </string>
+
+    <string name="link_gionmatsuri">
+        <a href="https://www.youtube.com/watch?v=5cbEJKloyjo">Yoiyama</a>
+        \n\n<a href="https://www.youtube.com/watch?v=5uz6wZObVps">Omukae chochin/Hanagasa junko/Kankousai</a>
+        \n\n<a href="https://www.youtube.com/watch?v=yDmKBun19nA">The Hokaboko Float’s Journey</a>
+    </string>
+
+    <string name="kor_gionmatsuri">
+        35.00366, 135.75961
+    </string>
+
+    <string name="des_jidaimatsuri">
+        Jidai Matsuri adalah festival yang diadakan setiap tahun pada tanggal 21 dan 22 Oktober, hari peringatan berdirinya Kyoto. Ini terdiri dari parade besar yang berjalan dari Istana Kekaisaran ke Kuil Heian. Jidai Matsuri adalah bahasa Jepang untuk "Festival Zaman", dan para pesertanya mengenakan kostum yang akurat dari hampir setiap periode sejarah Jepang, serta tokoh sejarah terkenal. Pesertanya sekitar 2000 orang, dan dibutuhkan waktu dua jam untuk menyaksikan seluruh prosesi berlalu lalang.
+        \n\nJidai Matsuri diselenggarakan oleh Kuil Heian, dan festival serta kuil tersebut didirikan pada tahun 1895 untuk merayakan sejarah dan budaya Kyoto. Beberapa tahun sebelumnya pada tahun 1868, ibu kota dipindahkan ke Tokyo setelah berada di Kyoto selama lebih dari seribu tahun.
+        \n\nKelompok terbesar dalam parade tersebut menggambarkan konvoi mewah yang dikirim oleh shogun untuk mewakilinya pada upacara penting kekaisaran di Kyoto selama Periode Edo (1603-1868). Ketiga pejabat terpenting itu menunggang kuda, dan ada juga tandu yang dibawa oleh pengiring yang akan digunakan para pejabat saat bepergian. Setelah itu ada kelompok yang jauh lebih kecil yang terdiri dari sekitar setengah lusin wanita terkenal pada masa itu, termasuk seorang putri yang duduk di atas platform beroda.
+        \n\nSaat parade berlanjut, penonton dapat melihat baju besi Oda Nobunaga dan para komandannya, pakaian para pejuang dan rakyat jelata pada Zaman Muromachi (1338-1573), para wanita dan bangsawan bersejarah yang lebih terkenal pada Zaman Heian (794-1185) ). Kostum dan karakter militer, budaya, bangsawan, dan masyarakat umum semuanya dipajang.
+        \n\nKelompok terakhir parade ini adalah yang paling penting dalam hal ritual Shinto. Sejumlah besar pelayan menemani dan membawa dua mikoshi (kuil portabel) yang berisi roh Kaisar Kammu dan Kaisar Komei, masing-masing kaisar pertama dan terakhir yang memerintah dari Kyoto. Kuil Heian didedikasikan untuk arwah dua kaisar, yang biasanya tinggal di kuil. Namun, selama Jidai Matsuri mereka dapat melakukan perjalanan keliling kota dengan mikoshi.
+    </string>
+
+    <string name="lok_jidaimatsuri">
+        Kyoto Imperial Palace dan Kuil Heian (Heian Jingu)
+    </string>
+
+    <string name="aks_jidaimatsuri">
+        Menggunakan kereta bawah tanah Karasuma Line turun di Stasiun Marumatchi atau Imadegawa, lalu menuju Imperial Palace. Festival di mulai dari Imperial Palace menuju Kuil Heian.
+    </string>
+
+    <string name="wak_jidaimatsuri">
+        22 Oktober
+    </string>
+
+    <string name="fee_jidaimatsuri">
+        Gratis.
+    </string>
+
+    <string name="dae_jidaimatsuri">
+        Pusat Kyoto – Timur Kyoto.
+    </string>
+
+    <string name="link_jidaimatsuri">
+        <a href="https://www.youtube.com/watch?v=MI1jNveFN-w">Jidai Festival</a>
+        \n\n<a href="https://www.youtube.com/watch?v=EDce8viYwo4">Jidai Festival</a>
+    </string>
+
+    <string name="kor_jidaimatsuri">
+        35.0259, 135.7616
+    </string>
+
+    <string name="deks_default">Ini deksripsi default</string>
+
+</resources>

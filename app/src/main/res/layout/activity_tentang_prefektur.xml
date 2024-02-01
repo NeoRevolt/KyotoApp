@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".TentangPrefektur">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toTopOf="@id/idTextVideo">
+
+        <VideoView
+            android:id="@+id/idVideo1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </FrameLayout>
+
+    <ScrollView
+        android:id="@+id/idTextVideo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:layout_marginTop="40dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginVertical="10dp"
+                android:fontFamily="@font/open_sans"
+                android:lineSpacingExtra="4sp"
+                android:text="cr : visitjapan"
+                android:textIsSelectable="true"
+                android:textSize="14sp"
+                android:textStyle="italic" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginVertical="10dp"
+                android:fontFamily="@font/open_sans"
+                android:lineSpacingExtra="4sp"
+                android:text="Prefektur"
+                android:textColor="#AB171717"
+                android:textIsSelectable="true"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/TentangPrefektur"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginBottom="20dp"
+                android:fontFamily="@font/open_sans"
+                android:lineSpacingExtra="4sp"
+                android:text="@string/isi_tentang_prefektur"
+                android:textIsSelectable="true"
+                android:textSize="16sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginVertical="10dp"
+                android:fontFamily="@font/open_sans"
+                android:lineSpacingExtra="4sp"
+                android:text="Jenis Prefektur"
+                android:textColor="#AB171717"
+                android:textIsSelectable="true"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/JenisPrefektur"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginBottom="20dp"
+                android:fontFamily="@font/open_sans"
+                android:lineSpacingExtra="4sp"
+                android:text="@string/isi_jenis_prefektur"
+                android:textIsSelectable="true"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/petaprefekturjepang"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/prefekturjepang" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginVertical="10dp"
+                android:fontFamily="@font/open_sans"
+                android:lineSpacingExtra="4sp"
+                android:text="Pengelompokan Prefektur"
+                android:textColor="#AB171717"
+                android:textIsSelectable="true"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/KelompokPrefektur"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="15dp"
+                android:layout_marginBottom="20dp"
+                android:fontFamily="@font/open_sans"
+                android:lineSpacingExtra="4sp"
+                android:text="@string/isi_pengelompokan_prefektur"
+                android:textIsSelectable="true"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:contentDescription="Biar pas" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

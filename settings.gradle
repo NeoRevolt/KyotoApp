@@ -1,0 +1,2 @@
+rootProject.name = "KyotoApp"
+include ':app'

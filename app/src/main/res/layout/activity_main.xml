@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.makeramen.roundedimageview.RoundedImageView
+        android:id="@+id/menu_utama"
+        android:layout_width="370dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:adjustViewBounds="true"
+        android:foreground="?attr/selectableItemBackground"
+        android:src="@drawable/mmenuutama"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:riv_corner_radius="10dp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/menu_utama">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:background="#00FFFFFF"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/menu_utama">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="20dp"
+                android:fontFamily="sans-serif-black"
+                android:text="Pencarian"
+                android:textAlignment="viewStart"
+                android:textAllCaps="false"
+                android:textColor="#C1000000"
+                android:textSize="29sp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnCari_Beranda"
+                style="@style/Widget.MaterialComponents.ChipGroup"
+                android:layout_width="match_parent"
+                android:layout_height="67dp"
+                android:layout_marginHorizontal="30dp"
+                android:fontFamily="sans-serif"
+                android:padding="10dp"
+                android:text="Cari"
+                android:textAlignment="textStart"
+                android:textColor="#9E9E9E"
+                android:textSize="17sp"
+                app:backgroundTint="#F4F4F4"
+                app:cornerRadius="15dp"
+                app:icon="@drawable/ic_search2"
+                app:iconSize="25dp"
+                app:iconTint="#9E9E9E"
+                app:rippleColor="#424242" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="10dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_weight="2"
+                    android:text="Cari Berdasarkan Kategori"
+                    android:textColor="#C1000000"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbars="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="10dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal">
+
+                    <com.makeramen.roundedimageview.RoundedImageView
+                        android:id="@+id/kategoriBeranda1"
+                        android:layout_width="180dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/mwisata"
+                        app:riv_corner_radius="10dp"
+                        android:foreground="?attr/selectableItemBackground" />
+
+                    <com.makeramen.roundedimageview.RoundedImageView
+                        android:id="@+id/kategoriBeranda2"
+                        android:layout_width="180dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/mkuil"
+                        app:riv_corner_radius="10dp"
+                        android:foreground="?attr/selectableItemBackground"/>
+
+                    <com.makeramen.roundedimageview.RoundedImageView
+                        android:id="@+id/kategoriBeranda3"
+                        android:layout_width="180dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/mfood"
+                        app:riv_corner_radius="10dp"
+                        android:foreground="?attr/selectableItemBackground"/>
+
+                    <com.makeramen.roundedimageview.RoundedImageView
+                        android:id="@+id/kategoriBeranda4"
+                        android:layout_width="180dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/mfestival"
+                        app:riv_corner_radius="10dp"
+                        android:foreground="?attr/selectableItemBackground"/>
+
+                </LinearLayout>
+            </HorizontalScrollView>
+
+            <com.makeramen.roundedimageview.RoundedImageView
+                android:id="@+id/idTentangPrefektur"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="15dp"
+                android:adjustViewBounds="true"
+                android:src="@drawable/mtentangprefektur"
+                app:riv_corner_radius="10dp"
+                android:foreground="?attr/selectableItemBackground"
+                />
+
+            <com.makeramen.roundedimageview.RoundedImageView
+                android:id="@+id/idTentangKyoto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="15dp"
+                android:adjustViewBounds="true"
+                android:src="@drawable/mtentangkyoto"
+                app:riv_corner_radius="10dp"
+                android:foreground="?attr/selectableItemBackground"
+                />
+
+            <com.makeramen.roundedimageview.RoundedImageView
+                android:id="@+id/idShrinedanTample"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="15dp"
+                android:adjustViewBounds="true"
+                android:src="@drawable/mshrinedantemple"
+                app:riv_corner_radius="10dp"
+                android:foreground="?attr/selectableItemBackground"
+                />
+
+
+            <com.makeramen.roundedimageview.RoundedImageView
+                android:id="@+id/idTentangApp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="15dp"
+                android:adjustViewBounds="true"
+                android:src="@drawable/tentangapk"
+                app:riv_corner_radius="10dp"
+                android:foreground="?attr/selectableItemBackground"
+                />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="110dp"
+                android:contentDescription="Biar pas" />
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
