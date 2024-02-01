@@ -6,6 +6,7 @@ import android.os.Bundle;
 import androidx.appcompat.app.ActionBar;
 
 import android.text.method.LinkMovementMethod;
+import android.util.Log;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -73,19 +74,30 @@ public class TampilkanIsiKonten extends AppCompatActivity implements OnMapReadyC
         tautan.setText(idLink);
         kor.setText(idKor);
 
+        // Penyebab Karena "idKor" di Line 64 itu dari Resource yang pada dasarnya itu INT (alamat datanya)
+        // lu harus ngambil dulu dari alamat datanya Resource tersebut pake fungsi yg gw buat di line 81 :
+        // terus kenapa yang lain kayak nama pada bisa ???
+        // karena TextVIew dengan fungsi SetText() nya udah ada fungsi bawaaan buat get Value nya
+
+        // Set LatLong ke Global Value
+        this.Skor1 = this.getResources().getString(idKor);
+
     }
 
     @Override
     public void onMapReady(@NonNull GoogleMap googleMap) {
 
+        Log.d("TampilkanIsiKonten", "LatLong from TextView : "+kor.getText());
+        Log.d("TampilkanIsiKonten", "LatLong from Global Var : "+Skor1);
+
         //get LatLong
-//        Skor1 = String.valueOf(kor);
-//        String[] latlong = Skor1.split(",");
-//        double latitude = Double.parseDouble(latlong[0]);
-//        double longtitude = Double.parseDouble(latlong[1]);
+        String[] latlong = Skor1.split(",");
+        double latitude = Double.parseDouble(latlong[0]);
+        double longtitude = Double.parseDouble(latlong[1]);
+
 
         googleMaps = googleMap;
-        LatLng latLng = new LatLng(66.656, 12.22);
+        LatLng latLng = new LatLng(latitude, longtitude);
         googleMaps.addMarker(new MarkerOptions().position(latLng).title(String.valueOf(judul)));
         googleMaps.moveCamera(CameraUpdateFactory.newLatLng(latLng));
         googleMaps.moveCamera(CameraUpdateFactory.newLatLngZoom(latLng, 16));
